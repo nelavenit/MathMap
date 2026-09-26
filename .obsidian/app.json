@@ -1,0 +1,8 @@
+{
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "_Templates/",
+    "_Exercises/",
+    "Chains and Antichains/_Regular Order"
+  ]
+}

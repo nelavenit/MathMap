@@ -1,0 +1,4 @@
+digraph Order Theory {
+    rankdir=LR;
+    node [shape=box, style=rounded];
+}

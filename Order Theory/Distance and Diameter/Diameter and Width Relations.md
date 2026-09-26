@@ -10,7 +10,7 @@ This inequality cannot be improved: consider $2k$-fence. It has diameter $2k-1$ 
 
 **Statement 2.** The inverse, i.e. upper-bounding width with a diameter is impossible.
 $\blacktriangle$ Consider the following order:
-![[Pasted image 20260926131425.png|246]]
+![[Infinite Width, Diameter is 2.png|246]]
 It has width $|A|$ for any set $A$ (including the infinite one) and diameter is $2$. $\boxtimes$
 
 TODO Examples

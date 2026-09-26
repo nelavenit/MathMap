@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Order Theory/Morphisms/Automorphism Problem.md",
+                "file": "Order Theory/Distance and Diameter/Order Diameter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Automorphism Problem"
+              "title": "Order Diameter"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Order Theory/Morphisms/Automorphism Problem.md",
+                "file": "Order Theory/Distance and Diameter/Order Diameter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,10 +210,11 @@
   },
   "active": "e90d1ddbc4fc5f08",
   "lastOpenFiles": [
-    "Order Theory/Morphisms/Exponential Lower Bound for End(P) - Aut(P).md",
+    "Order Theory/Distance and Diameter/Infinite Width, Diameter is 2.png",
     "Order Theory/Morphisms/Automorphism Problem.md",
+    "LICENSE",
+    "Order Theory/Morphisms/Exponential Lower Bound for End(P) - Aut(P).md",
     "Order Theory/Distance and Diameter/Diameter and Width Relations.md",
-    "Pasted image 20260926131425.png",
     "Order Theory/Distance and Diameter/Distance.md",
     "Order Theory/Distance and Diameter/Order Diameter.md",
     "Order Theory/Chains and Antichains/Chain Length.md",
@@ -240,7 +241,6 @@
     "Order Theory/Certain Orders/Boolean Lattice/Dedekind Numbers.md",
     "Order Theory/Chains and Antichains/Order Height Example 01.png",
     "_Templates/Remark.md",
-    "_Templates/Intuition.md",
     "Order Theory/Distance and Diameter",
     "Order Theory",
     "Order Theory/Connectivity/Disconnected Order Example 01.png",
@@ -254,7 +254,6 @@
     "_Exercises/Crowns and Fences",
     "_Exercises/Fixed Point Property/Certain Order having FPP Proof 01.pdf",
     "01.dot",
-    "_Exercises/Fixed Point Property/Certain Order Class having FPP Proof 02.pdf",
-    "_Exercises/Fixed Point Property"
+    "_Exercises/Fixed Point Property/Certain Order Class having FPP Proof 02.pdf"
   ]
 }

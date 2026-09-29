@@ -61,8 +61,7 @@
               "title": "Finite Upper Bound Graphs Criterions"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +136,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph Theory/Upper Bound Graphs/Finite Upper Bound Graphs Criterions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,10 +234,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2703e9e8b14646b2",
+  "active": "963d1df56e216076",
   "lastOpenFiles": [
-    "Graph Theory/Basics/Clique (Complete Subgraph).md",
     "Graph Theory/Upper Bound Graphs/Finite Upper Bound Graphs Criterions.md",
+    "Graph Theory/Basics/Clique (Complete Subgraph).md",
     "Order Theory/Basics/Partial Order.md",
     "Order Theory/Distance and Diameter/Order Diameter.md",
     "Graph Theory/Upper Bound Graphs/Upper Bound Graph.md",

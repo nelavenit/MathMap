@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph Theory/Basics/Graph.md",
+                "file": "Graph Theory/Basics/Subgraph Edge Cover.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,11 +236,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "445ca77a243fc391",
+  "active": "fdce3b1ae31855db",
   "lastOpenFiles": [
-    "Graph Theory/Basics/Subgraph Edge Cover.md",
     "Graph Theory/Basics/Complete Graph (Clique).md",
     "Graph Theory/Basics/Graph.md",
+    "Graph Theory/Basics/Subgraph Edge Cover.md",
     "Graph Theory/Basics/Illustrations/Subgraph Example 01.png",
     "Graph Theory/Basics/Illustrations/Subgraph Example 05.png",
     "Graph Theory/Basics/Illustrations/Subgraph Example 03.png",

@@ -3,4 +3,4 @@ tags:
   - Definition
   - Graph-Theory
 ---
-**Intuition.** We 
+**Intuition.** We want to cover

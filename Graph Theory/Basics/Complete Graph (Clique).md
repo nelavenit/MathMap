@@ -13,8 +13,8 @@ $\color{red}\text{Proof}$ is obvious.
 
 **Examples.** 
 1. A one point with empty relation is a complete graph – an only one-element clique – $K_1$
-2. ![[Pasted image 20261001142241.png|185]] – $K_2$
-3. ![[Pasted image 20261001142350.png|144]] – <u>triangle</u> – $K_3$
-4. ![[Pasted image 20261001144812.png|176]] – $K_5$
-5. ![[Pasted image 20261001144737.png|212]] – $K_7$
-6. ![[Pasted image 20261001144832.png|284]] – not a clique
+2. ![[K2.png|185]] – $K_2$
+3. ![[K3.png|144]] – <u>triangle</u> – $K_3$
+4. ![[K5.png|176]] – $K_5$
+5. ![[K7.png|212]] – $K_7$
+6. ![[P6.png|284]] – not a clique

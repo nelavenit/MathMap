@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Relations/Reflexivity and Irreflexivity.md",
+                "file": "Order Theory/Basics/Partial Order.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reflexivity and Irreflexivity"
+              "title": "Partial Order"
             }
           },
           {
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Relations/Reflexivity and Irreflexivity.md",
+                "file": "Order Theory/Basics/Partial Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,20 +264,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cdaf15c423be4a85",
+  "active": "7817ca26a43ed287",
   "lastOpenFiles": [
-    "Order Theory/Basics/Self-dual Properties.md",
-    "General Relations/Reflexivity and Irreflexivity.md",
+    "General Relations/Reflexivity.md",
+    "Order Theory/WOS and Transfinite Induction/Wosets Ordering.md",
     "Order Theory/Basics/Preorder.md",
-    "General Relations/Transitivity.md",
-    "General Relations/Symmetry and Antisymmetry.md",
+    "Order Theory/Basics/Partial Order.md",
     "Graph Theory/Basics/Directed Graph.md",
-    "General Relations",
+    "General Relations/Irreflexivity.md",
     "Graph Theory/Basics/Graph.md",
+    "General Relations/Symmetry and Antisymmetry.md",
+    "Graph Theory/Basics/Clique (Complete Subgraph).md",
+    "Order Theory/Basics/Self-dual Properties.md",
+    "General Relations/Transitivity.md",
+    "General Relations",
     "Order Theory/Distance and Diameter/Order Diameter.md",
     "Graph Theory/Upper Bound Graphs/Finite Upper Bound Graphs Criterions.md",
-    "Graph Theory/Basics/Clique (Complete Subgraph).md",
-    "Order Theory/Basics/Partial Order.md",
     "Graph Theory/Upper Bound Graphs/Upper Bound Graph.md",
     "_Templates/Sources.md",
     "Graph Theory/Upper Bound Graphs",
@@ -297,8 +299,6 @@
     "Pasted image 20260926113229.png",
     "Order Theory/Chains and Antichains/Width.md",
     "Order Theory/Reconstruction Problem/Reconstruction Problem.md",
-    "Order Theory/Visualization/Rank Hasse Diagram.md",
-    "Order Theory/Reconstruction Problem/Height is Reconstructible.md",
     "Order Theory/Chains and Antichains/Order Height Example 01.png",
     "Order Theory/Distance and Diameter",
     "Order Theory",

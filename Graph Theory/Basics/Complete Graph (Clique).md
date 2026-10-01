@@ -2,7 +2,7 @@
 tags:
   - Definition
 ---
-**Definition.** Let $\mathbb{G} = (G, \leftrightarrow)$ be a [[Graph|graph]], it is called a <u>complete graph</u> or a <u>clique</u> if for any $x,y \in G$ we have $x \leftrightarrow y$.
+**Definition.** Let $\mathbb{G} = (G, E)$ be a [[Graph|graph]], it is called a <u>complete graph</u> or a <u>clique</u> if for any $x,y \in G$ we have $(x,y) \in E$.
 
 **Notation.**  Let $\mathbb{G} = (G, \leftrightarrow)$ be a graph, $S \subseteq G$. Then, the corresponding graph/relation is obvious from the context, we may, for simplicity, call the $S$ itself a clique. 
 

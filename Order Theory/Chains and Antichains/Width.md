@@ -15,4 +15,4 @@ In case of [[Rank Hasse Diagram]] the width is lower bounded by the maximum size
 5. ![[Width Example 04.png|200]]
 6. $(\mathbb{N}, |)$ has a $w=\infty$, for instance $\{p \in \mathbb{N}\ |\ p - \text{prime}\}$ is an infinite antichain
 
-**Intuition.** Width and antichains can't produce the analog for a rank: some horizontal ranking, because an antichain, unlike a [[Linear Order and Chain|chain]], has no hierarchy on its elements.
+**Intuition.** Width and antichains can't produce the analog for a rank: some horizontal ranking, because an antichain, unlike a [[Linear Order (Chain)|chain]], has no hierarchy on its elements.

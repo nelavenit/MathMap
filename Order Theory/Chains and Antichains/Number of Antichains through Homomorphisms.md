@@ -3,7 +3,7 @@ tags:
   - Statement
   - Finite
 ---
-**Intuition.** Let $\mathbb{P} = (P, \leq)$ be a *finite* [[Partial Order|order]] and $\mathbb{C}_2 = (\{0,1\},\{(0,0),(0,1),(1,1)\}$ be a two-element [[Linear Order and Chain|linear order]]. What is $\operatorname{Hom}(\mathbb{P}, \mathbb{C}_2)$? 
+**Intuition.** Let $\mathbb{P} = (P, \leq)$ be a *finite* [[Partial Order|order]] and $\mathbb{C}_2 = (\{0,1\},\{(0,0),(0,1),(1,1)\}$ be a two-element [[Linear Order (Chain)|linear order]]. What is $\operatorname{Hom}(\mathbb{P}, \mathbb{C}_2)$? 
 We decide which elements to cast into $1$ and which into $0$. If we cast $X$ into $0$, then the whole $\mathord{\downarrow} X$ needs to be cast into $0$ for the map to be [[Order-preserving map (Order Homomorphism)|order-preserving]]. So it's enough to describe all the [[Upset and Downset|downsets]] $D$ of $\mathbb{P}$, and for each we would have a homomorphism:
 $$f_D(p) = 
 \begin{cases}

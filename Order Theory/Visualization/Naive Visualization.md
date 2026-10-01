@@ -11,4 +11,4 @@ These are 3 diagrams showing the same order:
 ![[Naive Visualization Example 1.png|200]] ![[Naive Visualization Example 2.png|220]] ![[Naive Visualization Example 3.png|230]]
 This example shows that by using arbitrary directed graph visualization it is both:
 1. Hard to analyze the order: 3 quite differently looking diagrams for the same order
-2. Quite difficult to be sure [[Symmetry and Antisymmetry|antisymmetry]] is not broken by some cycle
+2. Quite difficult to be sure [[Antisymmetry|antisymmetry]] is not broken by some cycle

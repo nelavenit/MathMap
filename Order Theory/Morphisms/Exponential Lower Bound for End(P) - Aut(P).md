@@ -2,7 +2,7 @@
 tags:
   - Statement
 ---
-**Statement.** Let $\mathbb{C}=(C,\leq)$ be a *finite* [[Linear Order and Chain|chain]] of the [[Chain Length|length]] $l=|C|-1>0$. Then $\mathbb{C}$ has at least $2^l = 2^{|C|-1}$ [[Order Endomorphism|endomorphisms]] that are not [[Order Automorphism|automorphisms]].
+**Statement.** Let $\mathbb{C}=(C,\leq)$ be a *finite* [[Linear Order (Chain)|chain]] of the [[Chain Length|length]] $l=|C|-1>0$. Then $\mathbb{C}$ has at least $2^l = 2^{|C|-1}$ [[Order Endomorphism|endomorphisms]] that are not [[Order Automorphism|automorphisms]].
 $\blacktriangle$ For each element we decide whether $\left[ \begin{array}{ll} a_i \mapsto a_{i+1} \\ a_i \mapsto a_i \end{array} \right .$ , where $a_{i+1}$ is an [[Lower and Upper Covers, Adjacence|upper cover]] of $a_i$, and $a_{|C|} \mapsto a_{|C|}$. This way we would have $2^{|C|-1}$ endomorphism, but one of them is an automorphism, so lets replace it with $f := const = a_{|C|}$.
 Note: doesn't work when $|c| = 1$ because $f$ was already considered, so in case $|C| = 2$ we fix $f' := const = a_0$. $\boxtimes$
 

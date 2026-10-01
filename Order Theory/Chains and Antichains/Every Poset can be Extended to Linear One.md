@@ -3,7 +3,7 @@ tags:
   - Statement
   - AC-used
 ---
-**Statement.** Let $(P, ≤)$ be a [[Partial Order|poset]], then $\leq$ can be extended to be a [[Linear Order and Chain|linear ordering]], i.e. $∃ ≤_L s.t. ≤ ⊆ ≤_L$ and $(P, ≤_L)$ is a linear order.
+**Statement.** Let $(P, ≤)$ be a [[Partial Order|poset]], then $\leq$ can be extended to be a [[Linear Order (Chain)|linear ordering]], i.e. $∃ ≤_L s.t. ≤ ⊆ ≤_L$ and $(P, ≤_L)$ is a linear order.
 $\blacktriangle$
 1. Consider $Q ⊆ powerset(P×P)$ – a set of all orderings of $P$ that contain $≤$. Consider $\mathbb{Q} = (Q, \subseteq),$ let's show this poset satisfies the [[Zorn's Lemma|Zorn's lemma]] condition. Let C ⊆ Q be a chain in $\mathbb{Q}$, then $\preccurlyeq := \bigcup_{≤' ∈ C} ≤'$ is an ordering and an [[Lower and Upper Bounds|upper bound]] of C:
 	1. Transitivity of $\preccurlyeq$: $p_1 \preccurlyeq p_2$ and $p_2 \preccurlyeq p_3$ $\iff$ $\exists \leq_1 \in C$ s.t. $p_1 \leq_1 p_2$ and $\exists \leq_2 \in C$ s.t. $p_2 \leq_2 p_3$.

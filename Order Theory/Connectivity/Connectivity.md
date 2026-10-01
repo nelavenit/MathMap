@@ -10,7 +10,7 @@ tags:
 **Examples.**
 1. Connected: ![[Connected Order Example 01.png|267]]
 2. Disconnected:![[Disconnected Order Example 01.png|299]]
-3. Every [[Linear Order and Chain|linear order]] is connected – every pair of distinct elements form a 2-fence
+3. Every [[Linear Order (Chain)|linear order]] is connected – every pair of distinct elements form a 2-fence
 
 **Statement.** Being connected is [[Self-dual Properties|self-dual]].
 $\color{red}\text{Proof}$ is a simple exercise.

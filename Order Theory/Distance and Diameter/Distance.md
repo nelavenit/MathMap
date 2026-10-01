@@ -6,7 +6,7 @@ tags:
 
 **Notation.** When there are multiple orders in consideration we may write $\operatorname{dist}_{\mathbb{P}}(p,q)$ for an unambiguity.
 
-**Intuition.** Same as in the definition of the connected component here we use fence, not a [[Linear Order and Chain|chain]], because else:
+**Intuition.** Same as in the definition of the connected component here we use fence, not a [[Linear Order (Chain)|chain]], because else:
 1. It wouldn't relate to the distance in the Hasse diagram
 2. For most pairs the distance would be $\infty$
 3. Triangle inequality wouldn't work

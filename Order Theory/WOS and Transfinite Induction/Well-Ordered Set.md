@@ -2,7 +2,7 @@
 tags:
   - Definition
 ---
-**Intuition.** One of the natural questions that arises when investigating into [[Well-Founded Order|well-founded]] [[Partial Order|orders]] is what if they would work more like natural numbers, natural ordering on $\mathbb{N}$ is [[Linear Order and Chain|linear]]. 
+**Intuition.** One of the natural questions that arises when investigating into [[Well-Founded Order|well-founded]] [[Partial Order|orders]] is what if they would work more like natural numbers, natural ordering on $\mathbb{N}$ is [[Linear Order (Chain)|linear]]. 
 It appeared that being being both well-founded and linearly ordered is an extremely strong restriction, so strong that all such sets can be ordered into a hierarchy, and their certain quotient class can even be ordered into a linear hierarchy, which would allow us to use their equivalence classes by isomorphism with the $\in$ relation to perform a transfinite induction on arbitrary sets.
 
 **Definition.** Poset $\mathbb{W} = (W, \leq)$ is called <u>well-ordered</u> if it is  

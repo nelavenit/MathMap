@@ -10,4 +10,4 @@ tags:
 3. Now height is an indicator of edge direction, so we can draw undirected edges
 The Hasse diagram for the order from [[Naive Visualization|naive visualization]] is, for example, this
 ![[Hasse Diagram Example.png|200]]
-Furthermore while presenting an order by giving its Hasse Diagram we guarantee the relation is indeed [[Symmetry and Antisymmetry|antisymmetric]].
+Furthermore while presenting an order by giving its Hasse Diagram we guarantee the relation is indeed [[Antisymmetry|antisymmetric]].

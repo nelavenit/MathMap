@@ -7,4 +7,4 @@ tags:
 **Examples.** 
 1. ![[Non N-Free Poset Example 01.png|200]] – not N-free (N-order subposet marked blue)
 2. ![[N-Free Poset Example 01.png|160]] – N-free
-3. Every [[Linear Order and Chain|linear order]] is N-free
+3. Every [[Linear Order (Chain)|linear order]] is N-free

@@ -5,7 +5,7 @@ tags:
 ---
 **Intuition.** Another way to see [[Axiom of Choice|AC]] is an order-theoretic statement called Zorn's lemma. On one hand, it is used in different branches of math just as a reformulation of AC to make some proves shorter and easier, than while using [[Zermelo's Theorem|Zermelo's theorem]] and transfinite induction directly. On the other hand, in order theory it's a stand-alone theorem (when assuming AC of course).
 
-**Statement (Zorn's lemma).** Let $\mathbb{P} = (P, \leq)$ be a non-empty [[Partial Order|poset]] in which every [[Linear Order and Chain|chain]] has an [[Lower and Upper Bounds|upper bound]], then there is a [[Minimal and Maximal Elements|maximal element]] in $\mathbb{P}$. And even more: $\forall p \in P\ \exists m \in Max(\mathbb{P})$ s.t. $m \geq p$.
+**Statement (Zorn's lemma).** Let $\mathbb{P} = (P, \leq)$ be a non-empty [[Partial Order|poset]] in which every [[Linear Order (Chain)|chain]] has an [[Lower and Upper Bounds|upper bound]], then there is a [[Minimal and Maximal Elements|maximal element]] in $\mathbb{P}$. And even more: $\forall p \in P\ \exists m \in Max(\mathbb{P})$ s.t. $m \geq p$.
 This statement is equivalent to AC and Zermelo's theorem.
 $\blacktriangle$ (Th.30 from @vereshchaginNachalaTeoriiMnozhestv2012)
 **(WO $\boldsymbol{\Rightarrow}$ Zorn)** Let $\mathbb{P} = (P, ≤)$ be a poset in which every chain has an upper bound. We want to prove that for every $p ∈ P\  ∃ m ∈ Max(\mathbb{P})$ s.t. $m ≥ p$.

@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph Theory/Upper Bound Graphs/Finite Upper Bound Graphs Criterions.md",
+                "file": "Graph Theory/Basics/Subgraph Edge Cover.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Finite Upper Bound Graphs Criterions"
+              "title": "Subgraph Edge Cover"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph Theory/Upper Bound Graphs/Finite Upper Bound Graphs Criterions.md",
+                "file": "Graph Theory/Basics/Subgraph Edge Cover.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,6 +210,9 @@
   },
   "active": "fdce3b1ae31855db",
   "lastOpenFiles": [
+    "Graph Theory/Upper Bound Graphs/Finite Upper Bound Graphs Criterions.md",
+    "Graph Theory/Basics/Subgraph Edge Cover.md",
+    "Graph Theory/Upper Bound Graphs/Upper Bound Graph.md",
     "Order Theory/Chains and Antichains/Chain Length.md",
     "Graph Theory/Basics/Complete Graph (Clique).md",
     "Pasted image 20261001144832.png",
@@ -236,8 +239,6 @@
     "Order Theory/Basics/Self-dual Properties.md",
     "General Relations",
     "Order Theory/Distance and Diameter/Order Diameter.md",
-    "Graph Theory/Upper Bound Graphs/Finite Upper Bound Graphs Criterions.md",
-    "Graph Theory/Upper Bound Graphs/Upper Bound Graph.md",
     "_Templates/Sources.md",
     "Graph Theory/Upper Bound Graphs",
     "Order Theory/Distance and Diameter/Infinite Width, Diameter is 2.png",

@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -264,17 +264,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cdaf15c423be4a85",
+  "active": "fdce3b1ae31855db",
   "lastOpenFiles": [
-    "Graph Theory/Basics/Graph.md",
+    "Graph Theory/Basics/Directed Graph.md",
     "Graph Theory/Upper Bound Graphs/Finite Upper Bound Graphs Criterions.md",
-    "Order Theory/Basics/Subposet.md",
     "Graph Theory/Basics/Complete Graph (Clique).md",
-    "Graph Theory/Basics/Subgraph Edge Cover.md",
     "Graph Theory/Upper Bound Graphs/Upper Bound Graph.md",
+    "Graph Theory/Basics/Graph.md",
+    "Order Theory/Basics/Subposet.md",
+    "Graph Theory/Basics/Subgraph Edge Cover.md",
     "Graph Theory/Basics/Subgraph.md",
     "Graph Theory/Basics/Induced Subgraph.md",
-    "Graph Theory/Basics/Directed Graph.md",
     "Graph Theory/Basics/Illustrations/Subgraph Example 01.png",
     "Graph Theory/Basics/Illustrations/Subgraph Example 05.png",
     "Graph Theory/Basics/Illustrations/Subgraph Example 03.png",

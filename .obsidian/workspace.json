@@ -226,8 +226,8 @@
             "state": {
               "type": "ReferenceListView",
               "state": {},
-              "icon": "quote-glyph",
-              "title": "References"
+              "icon": "lucide-ghost",
+              "title": "ReferenceListView"
             }
           },
           {

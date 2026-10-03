@@ -8,4 +8,4 @@ tags:
 
 **Definition.** Let $\mathbb{G} = (G, E)$ be a finite [[Graph|graph]]. Then $\mathbb{G}$ is [[Upper Bound Graph|upper bound graph]] iff there exists a family $\mathcal{K} = \{K_1, K_2, \ldots, K_k\}$ of [[Complete Graph (Clique)|cliques]] of $\mathbb{G}$ s.t.:
 1. $\mathcal{K}$ edge covers $\mathbb{G}$
-2. 
+2. For every $K_i \in \mathcal{K}$ exists such $x_i \in K_i$ that it is not present in any other clique of $\mathcal{K}$. In other words, $\forall i=1\ldots k\ \exists x_i \in K_i \setminus \bigcup\limits_{j \neq i} K_j$.

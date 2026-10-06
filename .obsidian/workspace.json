@@ -88,9 +88,21 @@
               "icon": "lucide-file",
               "title": "Finite Upper Bound Graphs Criterions"
             }
+          },
+          {
+            "id": "b8bcb21df5f3db32",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -165,7 +177,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph Theory/Upper Bound Graphs/Finite Upper Bound Graphs Criterions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +275,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cdaf15c423be4a85",
+  "active": "b8bcb21df5f3db32",
   "lastOpenFiles": [
     "Graph Theory/Simplicity",
     "Graph Theory/Basics/Directed Graph.md",

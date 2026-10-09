@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph Theory/Upper Bound Graphs/Upper Bound Graph.md",
+                "file": "Graph Theory/Upper Bound Graphs/Finite Upper Bound Graphs Criterions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Upper Bound Graph"
+              "title": "Finite Upper Bound Graphs Criterions"
             }
           },
           {
@@ -81,16 +81,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph Theory/Simpliciality/Simplicial Vertex Criterion.md",
+                "file": "Graph Theory/Simpliciality/Edge-Simplicial Graph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Simplicial Vertex Criterion"
+              "title": "Edge-Simplicial Graph"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph Theory/Simpliciality/Simplicial Vertex Criterion.md",
+                "file": "Graph Theory/Upper Bound Graphs/Finite Upper Bound Graphs Criterions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,17 +265,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1f56a306ae09b4d",
+  "active": "445ca77a243fc391",
   "lastOpenFiles": [
+    "Graph Theory/Upper Bound Graphs/Upper Bound Graph.md",
+    "Graph Theory/Simpliciality/Edge-Simplicial Graph.md",
+    "Graph Theory/Simpliciality/Simplicial Vertex Criterion.md",
     "Graph Theory/Basics/Complete Graph (Clique).md",
     "Graph Theory/Basics/Independent Set.md",
     "Graph Theory/Basics/Neighborhood of Vertex.md",
     "Graph Theory/Basics/Directed Graph.md",
     "Maximal Clique Existance.md",
     "Graph Theory/Basics/Graph.md",
-    "Graph Theory/Upper Bound Graphs/Upper Bound Graph.md",
     "Graph Theory/Simpliciality/Simplicial Clique Criterion.md",
-    "Graph Theory/Simpliciality/Simplicial Vertex Criterion.md",
     "Graph Theory/Simpliciality/Simplicial Clique is Maximal.md",
     "Graph Theory/Basics/Path and Induced Path.md",
     "Graph Theory/Basics/Induced Subgraph.md",
@@ -309,7 +310,6 @@
     "Graph Theory/Basics/Illustrations",
     "Order Theory/Chains and Antichains/Chain Length.md",
     "Order Theory/Chains and Antichains/Linear Order (Chain).md",
-    "General Relations/Antisymmetry.md",
     "General Relations",
     "Graph Theory/Upper Bound Graphs",
     "LICENSE"

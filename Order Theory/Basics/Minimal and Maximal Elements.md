@@ -2,8 +2,8 @@
 tags:
   - Definition
 ---
-**Definition.** Let $\mathbb{P}=(P,\leq)$ be an [[Partial Order|order]], $m \in P$ is called <u>minimal</u> (<u>maximal</u>) element of $\mathbb{P}$ iff $\nexists p \in P$ s.t. $p < m$ ($p > m$). We denote the set of all minimal (maximal) elements of $\mathbb{P}$ as $Min(\mathbb{P})$ ($Max(\mathbb{P})$).
-**Notation.** Let $Q \subseteq P$, if we want to address the set of all minimal (maximal) elements of [[Subposet|subposet]] $(Q,\leq|_{Q\times Q})$ we would write $Min_\mathbb{P}(Q)$ ($Max_\mathbb{P}(Q)$). Note: by this definition $Min(\mathbb{P})=Min_\mathbb{P}(P)$.
+**Definition.** Let $\mathbb{P}=(P,\leq)$ be an [[Partial Order|order]], $m \in P$ is called <u>minimal</u> (<u>maximal</u>) element of $\mathbb{P}$ iff $\nexists p \in P$ s.t. $p < m$ ($p > m$). We denote the set of all minimal (maximal) elements of $\mathbb{P}$ as $\operatorname{Min}(\mathbb{P})$ ($\operatorname{Max}(\mathbb{P})$).
+**Notation.** Let $Q \subseteq P$, if we want to address the set of all minimal (maximal) elements of [[Subposet|subposet]] $(Q,\leq|_{Q\times Q})$ we would write $\operatorname{Min}_\mathbb{P}(Q)$ ($\operatorname{Max}_\mathbb{P}(Q)$). Note: by this definition $\operatorname{Min}(\mathbb{P})=\operatorname{Min}_\mathbb{P}(P)$.
 **Examples.** 
 1. ![[Minimal and Maximal Elements Example.png|300]]
 2. Every [[Least is Minimal|least element is minimal]] so the examples from [[Least and Greatest Elements]] are relevant here

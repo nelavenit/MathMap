@@ -4,7 +4,10 @@ tags:
 ---
 **Definition.** Let $G$ be a set, $E \subseteq G \times G$, i.e. $E$ is a binary relation on $G$. Then $(G,E)$ is called a <u>graph</u>, if $E$ is [[Symmetry|symmetric]] and [[Irreflexivity|irreflexive]].
 
-**Definitions.** Let $\mathbb{G} = (G, E)$ be a graph. Elements of $G$ are called <u>vetices</u>. Elements of $E$ are called <u>edges</u>.
+**Definitions.** Let $\mathbb{G} = (G, E)$ be a graph. Elements of $G$ are called <u>vertices</u>. Elements of $E$ are called <u>edges</u>.
+
+**Definition.** Let $\mathbb{G} = (G, E)$ be a graph. Vertices $u,v \in G$ are called <u>adjacent</u>, if $(u,v) \in E$.
+
 
 TODO Examples
 

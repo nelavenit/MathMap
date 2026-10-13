@@ -75,8 +75,7 @@
               "title": "Domination and Independence relations"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,9 +250,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5e46aa5e6bac1f3",
+  "active": "963d1df56e216076",
   "lastOpenFiles": [
     "Graph Theory/Basics/Domination and Independence relations.md",
+    "Pasted image 20261013110802.png",
     "Graph Theory/Basics/Dominating Set.md",
     "Graph Theory/Basics/Directed Graph.md",
     "Graph Theory/Basics/Independent Set.md",
@@ -279,7 +279,6 @@
     "Graph Theory/Basics/Induced Subgraph.md",
     "Order Theory/Morphisms/Bijective Endomorphism of Finite Order.md",
     "Order Theory/Fixed Points/FPF Automorphic Orders Characterization Problem.md",
-    "Order Theory/Chains and Antichains/Dilworth's Chain Decomposition Theorem.md",
     "Graph Theory/Simpliciality",
     "Graph Theory/Basics/Illustrations/Subgraph Example 01.png",
     "Graph Theory/Basics/Illustrations/Subgraph Example 05.png",
@@ -289,7 +288,6 @@
     "Pasted image 20261001172804.png",
     "Order Theory/Certain Orders/Powerset and Boolean Lattices/Illustrations/Dedekind Numbers Progress.png",
     "Order Theory/Certain Orders/Powerset and Boolean Lattices/Illustrations/2nd Dedekind Number Calculation.png",
-    "Order Theory/Certain Orders/Fence and Crown/Illustrations/Fence is Reconstructible Proof Illustration 01.png",
     "Order Theory/Certain Orders/Powerset and Boolean Lattices/Illustrations",
     "Order Theory/Certain Orders/Fence and Crown/Illustrations",
     "Order Theory/Chains and Antichains/Illustrations",

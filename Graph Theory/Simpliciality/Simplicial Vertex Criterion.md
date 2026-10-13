@@ -6,7 +6,7 @@ tags:
 **Statement (Finite case).** Let $\mathbb{G} = (G, E)$ be a finite [[Graph|graph]], $v \in G$, then the following are equivalent:
 1. $v$ is a [[Simplicial Vertices and Cliques|simplicial vertex]], i.e. $N[v]$ is a [[Complete Graph (Clique)|clique]]
 2. $N[v]$ is a maximal clique of $\mathbb{G}$
-3. The [[Neighborhood of Vertex|open neighborhood]] $N(v)$ is a clique of $\mathbb{G}$
+3. The [[Neighborhood|open neighborhood]] $N(v)$ is a clique of $\mathbb{G}$
 4. $v$ is not the middle vertex of any three-vertex [[Path and Induced Path|induced path]] of $\mathbb{G}$. 
 5. $v$ belongs to exactly one maximal clique of $\mathbb{G}$
 $\blacktriangle$ **(1 $\boldsymbol{\Rightarrow}$ 2)** Assume the opposite: there is a clique $C$ of $\mathbb{G}$ s.t. $N[v] \subsetneq C$, which includes $v \in C$. Then there is a vertex $u \in C \setminus N[v]$. By definition of a neighborhood, we have $(u,v) \not\in E$ – contradicts $C$ being a clique of $\mathbb{G}$.
@@ -21,14 +21,14 @@ $\blacktriangle$ **(1 $\boldsymbol{\Rightarrow}$ 2)** Assume the opposite: there
 **Statement (General case in ZF).** Let $\mathbb{G} = (G, E)$ be a [[Graph|graph]], $v \in G$, then the following are equivalent:
 1. $v$ is a [[Simplicial Vertices and Cliques|simplicial vertex]], i.e. $N[v]$ is a [[Complete Graph (Clique)|clique]]
 2. $N[v]$ is a maximal clique of $\mathbb{G}$
-3. The [[Neighborhood of Vertex|open neighborhood]] $N(v)$ is a clique of $\mathbb{G}$
+3. The [[Neighborhood|open neighborhood]] $N(v)$ is a clique of $\mathbb{G}$
 4. $v$ is not the middle vertex of any three-vertex [[Path and Induced Path|induced path]] of $\mathbb{G}$. 
 $\color{red}\text{Proof}$ is exactly the same as in finite case, just the **(2 $\boldsymbol{\Rightarrow}$ 5)** and **(5 $\boldsymbol{\Rightarrow}$ 1)** removed.
 
 **Statement (General case in ZFC).** Let $\mathbb{G} = (G, E)$ be a [[Graph|graph]], $v \in G$, then the following are equivalent:
 1. $v$ is a [[Simplicial Vertices and Cliques|simplicial vertex]], i.e. $N[v]$ is a [[Complete Graph (Clique)|clique]]
 2. $N[v]$ is a maximal clique of $\mathbb{G}$
-3. The [[Neighborhood of Vertex|open neighborhood]] $N(v)$ is a clique of $\mathbb{G}$
+3. The [[Neighborhood|open neighborhood]] $N(v)$ is a clique of $\mathbb{G}$
 4. $v$ is not the middle vertex of any three-vertex [[Path and Induced Path|induced path]] of $\mathbb{G}$. 
 5. $v$ belongs to exactly one maximal clique of $\mathbb{G}$
 $\color{red}\text{Proof}$ is the same as in finite case, just in the **(5 $\boldsymbol{\Rightarrow}$ 1)** the maximal cliques exist by the [[Maximal Clique Existance|principle]] that every clique is contained in a maximal clique, which is equivalent to AC over ZF.

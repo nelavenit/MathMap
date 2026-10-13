@@ -6,7 +6,7 @@ tags:
 
 **Remark.** Being antisymmetric is neither a [[Symmetry|non-symmetric]], nor is stronger than being non-symmetric as in the case of [[Reflexivity|reflexivity]] and [[Irreflexivity|irreflexivity]]. The relation can be both symmetric and antisymmetric (see example (5) and [[Symmetric Antisymmetric Relations|here]] is their full description).
 
-**Examples.** Consider two-point set $\{(0,1)\}$:
+**Examples.** Consider two-point set $\{0,1\}$:
 1. $\emptyset$ is symmetric
 2. $\{(0,0)\}$ is symmetric
 3. $\{(0,1), (1,0)\}$ is symmetric

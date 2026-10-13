@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph Theory/Basics/Dominating Set.md",
+                "file": "Graph Theory/Domination Theory/Irredundant Set.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dominating Set"
+              "title": "Irredundant Set"
             }
           },
           {
@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph Theory/Basics/Domination and Independence relations.md",
+                "file": "Graph Theory/Basics/Neighborhood.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Domination and Independence relations"
+              "title": "Neighborhood"
             }
           },
           {
@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph Theory/Upper Bound Graphs/Finite UB-Graphs through Simpliciality.md",
+                "file": "Graph Theory/Basics/Independent Set.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Finite UB-Graphs through Simpliciality"
+              "title": "Independent Set"
             }
           }
         ],
@@ -267,33 +267,36 @@
   },
   "active": "004c2b8a81dda465",
   "lastOpenFiles": [
-    "Graph Theory/Basics/Domination and Independence relations.md",
-    "Pasted image 20261013110802.png",
-    "Graph Theory/Basics/Dominating Set.md",
-    "Graph Theory/Basics/Directed Graph.md",
+    "General Relations/Antisymmetry.md",
+    "General Relations/Transitivity.md",
+    "General Relations/Irreflexivity.md",
+    "General Relations/Reflexivity.md",
+    "General Relations/Symmetric Antisymmetric Relations.md",
+    "General Relations/Symmetry.md",
+    "Graph Theory/Domination Theory/Irredundant Set.md",
     "Graph Theory/Basics/Independent Set.md",
+    "Graph Theory/Basics/Neighborhood.md",
+    "Graph Theory/Basics/Complete Graph (Clique).md",
+    "Graph Theory/Upper Bound Graphs/UB-Graph is in P.md",
+    "Graph Theory/Domination Theory/Dominating Set.md",
+    "Graph Theory/Upper Bound Graphs/Finite UB-Graphs through Simpliciality.md",
+    "Graph Theory/Domination Theory/Illustrations/Minimal Dominating non-Independent Set Example.png",
+    "Graph Theory/Domination Theory/Illustrations",
+    "Graph Theory/Domination Theory",
+    "Graph Theory/Domination Theory/Domination and Independence relations.md",
+    "Graph Theory/Basics/Directed Graph.md",
     "Order Theory/Distance and Diameter/Distance.md",
     "Order Theory/Distance and Diameter/Order Diameter.md",
     "Order Theory/Distance and Diameter/Infinite Width, Diameter is 2.png",
     "Order Theory/Distance and Diameter/Diameter and Width Relations.md",
     "Graph Theory/Upper Bound Graphs/Upper Bound Graph.md",
-    "Graph Theory/Upper Bound Graphs/Finite UB-Graphs through Simpliciality.md",
-    "Graph Theory/Upper Bound Graphs/UB-Graph is in P.md",
     "Graph Theory/Simpliciality/Simplicial Vertices and Cliques.md",
     "Graph Theory/Simpliciality/Simplicial Clique Criterion.md",
     "Graph Theory/Simpliciality/Simplicial Vertex Criterion.md",
     "Graph Theory/Simpliciality/Edge-Simplicial Graph.md",
     "Order Theory/Basics/Subposet.md",
     "Order Theory/Basics/Minimal and Maximal Elements.md",
-    "Graph Theory/Basics/Complete Graph (Clique).md",
-    "Graph Theory/Basics/Neighborhood of Vertex.md",
     "Maximal Clique Existance.md",
-    "Graph Theory/Basics/Graph.md",
-    "Graph Theory/Simpliciality/Simplicial Clique is Maximal.md",
-    "Graph Theory/Basics/Path and Induced Path.md",
-    "Graph Theory/Basics/Induced Subgraph.md",
-    "Order Theory/Morphisms/Bijective Endomorphism of Finite Order.md",
-    "Order Theory/Fixed Points/FPF Automorphic Orders Characterization Problem.md",
     "Graph Theory/Simpliciality",
     "Graph Theory/Basics/Illustrations/Subgraph Example 01.png",
     "Graph Theory/Basics/Illustrations/Subgraph Example 05.png",
@@ -309,8 +312,6 @@
     "Order Theory/Certain Orders/N-Orders/Illustrations",
     "Order Theory/Basics/Illustrations",
     "Graph Theory/Basics/Illustrations",
-    "General Relations",
-    "Graph Theory/Upper Bound Graphs",
-    "LICENSE"
+    "General Relations"
   ]
 }

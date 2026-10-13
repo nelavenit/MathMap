@@ -3,7 +3,7 @@ tags:
   - Graph-Theory
   - Definition
 ---
-**Definition.** Let $\mathbb{G} = (G, E)$ be a [[Graph|graph]]. A vertex $v \in G$ is called a <u>simplicial vertex</u> if $N[v]$, the [[Neighborhood of Vertex|closed neighborhood]] of $v$, is a [[Complete Graph (Clique)|clique]] of $\mathbb{G}$.
+**Definition.** Let $\mathbb{G} = (G, E)$ be a [[Graph|graph]]. A vertex $v \in G$ is called a <u>simplicial vertex</u> if $N[v]$, the [[Neighborhood|closed neighborhood]] of $v$, is a [[Complete Graph (Clique)|clique]] of $\mathbb{G}$.
 
 **Definition.** Let $\mathbb{G} = (G, E)$ be a [[Graph|graph]], $C \subseteq G$ – a clique of $\mathbb{G}$, $v \in G$. Then $C$ is called a <u>simplicial clique of </u>$v$ if $C = N[v]$.
 

@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph Theory/Basics/Independent Set.md",
+                "file": "General Relations/Antisymmetry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Independent Set"
+              "title": "Antisymmetry"
             }
           }
         ],
@@ -267,6 +267,9 @@
   },
   "active": "004c2b8a81dda465",
   "lastOpenFiles": [
+    "Graph Theory/Basics/Complete Graph (Clique).md",
+    "Graph Theory/Basics/Directed Graph.md",
+    "Graph Theory/Basics/Independent Set.md",
     "General Relations/Antisymmetry.md",
     "General Relations/Transitivity.md",
     "General Relations/Irreflexivity.md",
@@ -274,9 +277,7 @@
     "General Relations/Symmetric Antisymmetric Relations.md",
     "General Relations/Symmetry.md",
     "Graph Theory/Domination Theory/Irredundant Set.md",
-    "Graph Theory/Basics/Independent Set.md",
     "Graph Theory/Basics/Neighborhood.md",
-    "Graph Theory/Basics/Complete Graph (Clique).md",
     "Graph Theory/Upper Bound Graphs/UB-Graph is in P.md",
     "Graph Theory/Domination Theory/Dominating Set.md",
     "Graph Theory/Upper Bound Graphs/Finite UB-Graphs through Simpliciality.md",
@@ -284,7 +285,6 @@
     "Graph Theory/Domination Theory/Illustrations",
     "Graph Theory/Domination Theory",
     "Graph Theory/Domination Theory/Domination and Independence relations.md",
-    "Graph Theory/Basics/Directed Graph.md",
     "Order Theory/Distance and Diameter/Distance.md",
     "Order Theory/Distance and Diameter/Order Diameter.md",
     "Order Theory/Distance and Diameter/Infinite Width, Diameter is 2.png",

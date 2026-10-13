@@ -1,4 +1,6 @@
 {
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "center"
+  ],
   "theme": "obsidian"
 }

@@ -1,0 +1,9 @@
+.callout[data-callout="center"] {
+  background: transparent;
+  border: none;
+  text-align: center;
+}
+
+.callout[data-callout="center"] .callout-title {
+  display: none;
+}

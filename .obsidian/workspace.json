@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Order Theory/WOS and Transfinite Induction/Well-Founded Order.md",
+                "file": "Order Theory/Basics/Subposet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Well-Founded Order"
+              "title": "Subposet"
             }
           }
         ],
@@ -267,9 +267,11 @@
   },
   "active": "004c2b8a81dda465",
   "lastOpenFiles": [
+    "Order Theory/WOS and Transfinite Induction/Woset through Subposets having Least Element.md",
+    "Order Theory/Basics/Subposet.md",
+    "Order Theory/WOS and Transfinite Induction/Well-Ordered Set.md",
     "Order Theory/WOS and Transfinite Induction/Well-Founded Order Criteria.md",
     "Order Theory/WOS and Transfinite Induction/Well-Founded Order.md",
-    "Order Theory/WOS and Transfinite Induction/Every Woset Subposet has Least Element.md",
     "Order Theory/WOS and Transfinite Induction/Every Woset Element has Successor.md",
     "Order Theory/Basics/Least and Greatest Elements.md",
     "Graph Theory/Simpliciality/Simplicial Vertex Criterion.md",
@@ -295,8 +297,6 @@
     "Order Theory/Distance and Diameter/Distance.md",
     "Order Theory/Distance and Diameter/Order Diameter.md",
     "Order Theory/Distance and Diameter/Infinite Width, Diameter is 2.png",
-    "Order Theory/Distance and Diameter/Diameter and Width Relations.md",
-    "Graph Theory/Upper Bound Graphs/Upper Bound Graph.md",
     "Graph Theory/Simpliciality",
     "Graph Theory/Basics/Illustrations/Subgraph Example 01.png",
     "Graph Theory/Basics/Illustrations/Subgraph Example 05.png",

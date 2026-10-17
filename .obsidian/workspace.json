@@ -53,16 +53,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Order Theory/WOS and Transfinite Induction/Woset through Subposets having Least Element.md",
+                "file": "Order Theory/WOS and Transfinite Induction/Wosets with FPP Criteria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Woset through Subposets having Least Element"
+              "title": "Wosets with FPP Criteria"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -237,13 +237,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c927fcd1facd0d6f",
+  "active": "f8db171f8c9c8f0d",
   "lastOpenFiles": [
-    "Order Theory/Chains and Antichains/Linear Order (Chain).md",
-    "Graph Theory/Upper Bound Graphs/UB-Graph is in P.md",
-    "Order Theory/Chains and Antichains/Antichain.md",
-    "Graph Theory/Basics/Neighborhood.md",
+    "Order Theory/Fixed Points/Fixed Point and Fixed-Point-Free.md",
+    "Order Theory/WOS and Transfinite Induction/Wosets with FPP Criteria.md",
     "Order Theory/WOS and Transfinite Induction/Woset through Subposets having Least Element.md",
+    "Order Theory/Chains and Antichains/Linear Order (Chain).md",
+    "Order Theory/Chains and Antichains/Antichain.md",
+    "Graph Theory/Upper Bound Graphs/UB-Graph is in P.md",
+    "Graph Theory/Basics/Neighborhood.md",
     "Order Theory/Chains and Antichains/Minimal and Least, Maximal and Greatest in Linear Orders.md",
     "Graph Theory/Domination Theory/Irredundant Set.md",
     "Order Theory/Basics/Dual Order.md",
@@ -263,8 +265,6 @@
     "Graph Theory/Basics/Independent Set.md",
     "General Relations/Transitivity.md",
     "General Relations/Irreflexivity.md",
-    "General Relations/Reflexivity.md",
-    "General Relations/Symmetric Antisymmetric Relations.md",
     "Graph Theory/Domination Theory/Illustrations/Minimal Dominating non-Independent Set Example.png",
     "Graph Theory/Domination Theory/Illustrations",
     "Graph Theory/Domination Theory",

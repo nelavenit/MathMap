@@ -53,44 +53,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph Theory/Domination Theory/Irredundant Set.md",
+                "file": "Order Theory/WOS and Transfinite Induction/Woset through Subposets having Least Element.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Irredundant Set"
-            }
-          },
-          {
-            "id": "f5e46aa5e6bac1f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graph Theory/Basics/Neighborhood.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Neighborhood"
-            }
-          },
-          {
-            "id": "004c2b8a81dda465",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Order Theory/Basics/Subposet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Subposet"
+              "title": "Woset through Subposets having Least Element"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -265,13 +237,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "004c2b8a81dda465",
+  "active": "f8db171f8c9c8f0d",
   "lastOpenFiles": [
-    "Graph Theory/Basics/Neighborhood.md",
-    "Graph Theory/Upper Bound Graphs/Finite UB-Graphs through Simpliciality.md",
-    "Graph Theory/Domination Theory/Irredundant Set.md",
-    "Order Theory/Basics/Subposet.md",
+    "Order Theory/Chains and Antichains/Minimal and Least, Maximal and Greatest in Linear Orders.md",
     "Order Theory/WOS and Transfinite Induction/Woset through Subposets having Least Element.md",
+    "Graph Theory/Domination Theory/Irredundant Set.md",
+    "Order Theory/Chains and Antichains/Linear Order (Chain).md",
+    "Graph Theory/Basics/Neighborhood.md",
+    "Order Theory/Basics/Dual Order.md",
+    "Order Theory/Basics/Partial Order.md",
+    "Order Theory/Basics/Subposet.md",
+    "Graph Theory/Upper Bound Graphs/Finite UB-Graphs through Simpliciality.md",
     "Order Theory/WOS and Transfinite Induction/Well-Ordered Set.md",
     "Order Theory/WOS and Transfinite Induction/Well-Founded Order Criteria.md",
     "Order Theory/WOS and Transfinite Induction/Well-Founded Order.md",
@@ -289,13 +265,9 @@
     "General Relations/Symmetric Antisymmetric Relations.md",
     "General Relations/Symmetry.md",
     "Graph Theory/Upper Bound Graphs/UB-Graph is in P.md",
-    "Graph Theory/Domination Theory/Dominating Set.md",
     "Graph Theory/Domination Theory/Illustrations/Minimal Dominating non-Independent Set Example.png",
     "Graph Theory/Domination Theory/Illustrations",
     "Graph Theory/Domination Theory",
-    "Graph Theory/Domination Theory/Domination and Independence relations.md",
-    "Order Theory/Distance and Diameter/Distance.md",
-    "Order Theory/Distance and Diameter/Order Diameter.md",
     "Order Theory/Distance and Diameter/Infinite Width, Diameter is 2.png",
     "Graph Theory/Simpliciality",
     "Graph Theory/Basics/Illustrations/Subgraph Example 01.png",

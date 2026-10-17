@@ -4,6 +4,8 @@ tags:
 ---
 **Definition.** A [[Partial Order|poset]] $\mathbb{P} = (P, ≤)$ is called a <u>linear order</u> or a <u>chain</u> if all the elements of $\mathbb{P}$ are $\leq$-comparable, i.e. $\forall p_1, p_2 \in P$ $\left[ \begin{array}{ll} \ p_1 \leq p_2 \\\ p_2 \leq p_1 \end{array} \right .$. Relation $\leq$ is called a <u>linear ordering</u>.
 
+**Definition.** Let $\mathbb{P} = (P, \leq)$ be a poset and $C \subseteq P$. If [[Subposet|subposet]] $\mathbb{P}|_C$ is a linear order, we call $C$ a <u>chain in </u>$\mathbb{P}$.
+
 **Examples.** 
 1. ![[Linear Order Example 01.png|250]]
 2. $\mathbb{N}, \mathbb{Z}, \mathbb{Q}, \mathbb{R}$ with natural orderings
@@ -13,13 +15,15 @@ tags:
 	1. By induction on $n$ show that $\forall n \in \mathbb{N}$ $p \leq f^n(p)$. Step: $p \leq f^k(p) \Rightarrow f(p) \leq f^{k+1}(p)$, but we also have $p \leq f(p) \Rightarrow p \leq f^{n+1}(p)$  
 	2. Let $n, m \in \mathbb{N}$ and $n > m$, we know $p \leq f^{n-m}(p) \Rightarrow f^m(p) \leq f^m \circ f^{n-m}(p) = f^n(p)$  
 
-**Notation.** If we consider a linearly ordered [[Subposet|subposet]] $(C, \leq|_{C\times C})$ of poset $\mathbb{P}$, we would also call the set $C$ a <u>chain</u>. So both "$C$ is a chain in $\mathbb{P}$" and "$(C, \leq|_{C\times C})$ is a chain in $\mathbb{P}$" would be correct things to say.
-
 **Examples.**
 1. ![[Chain Example 01.png|250]]
-2. Any subset of $\mathbb{N}$ with a natural ordering is a chain
+2. Any set of natural numbers is a chain in $\mathbb{N}$
+3. All the natural numbers form a chain in $\mathbb{Z}$
+4. All the rational numbers form a chain in $\mathbb{R}$
 
 **Remark.** Another commonly used names for a linear order are <u>total order</u>, <u>linearly ordered set</u> and <u>totally ordered set</u>.
+
+**Remark.** A chain in $\mathbb{P}$ is a subset of $P$, not a subposet, similarly to the "[[Complete Graph (Clique)|clique]] of $\mathbb{G}$" in [[Graph|graph]] theory.
 
 **Statement.** Being a linear order is [[Self-dual Properties|self-dual]].
 $\color{red}\text{Proof}$ is a simple exercise.

@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph Theory/Upper Bound Graphs/Finite UB-Graphs through Simpliciality.md",
+                "file": "Graph Theory/Basics/Neighborhood.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Finite UB-Graphs through Simpliciality"
+              "title": "Neighborhood"
             }
           },
           {
@@ -267,8 +267,11 @@
   },
   "active": "004c2b8a81dda465",
   "lastOpenFiles": [
-    "Order Theory/WOS and Transfinite Induction/Woset through Subposets having Least Element.md",
+    "Graph Theory/Basics/Neighborhood.md",
+    "Graph Theory/Upper Bound Graphs/Finite UB-Graphs through Simpliciality.md",
+    "Graph Theory/Domination Theory/Irredundant Set.md",
     "Order Theory/Basics/Subposet.md",
+    "Order Theory/WOS and Transfinite Induction/Woset through Subposets having Least Element.md",
     "Order Theory/WOS and Transfinite Induction/Well-Ordered Set.md",
     "Order Theory/WOS and Transfinite Induction/Well-Founded Order Criteria.md",
     "Order Theory/WOS and Transfinite Induction/Well-Founded Order.md",
@@ -285,11 +288,8 @@
     "General Relations/Reflexivity.md",
     "General Relations/Symmetric Antisymmetric Relations.md",
     "General Relations/Symmetry.md",
-    "Graph Theory/Domination Theory/Irredundant Set.md",
-    "Graph Theory/Basics/Neighborhood.md",
     "Graph Theory/Upper Bound Graphs/UB-Graph is in P.md",
     "Graph Theory/Domination Theory/Dominating Set.md",
-    "Graph Theory/Upper Bound Graphs/Finite UB-Graphs through Simpliciality.md",
     "Graph Theory/Domination Theory/Illustrations/Minimal Dominating non-Independent Set Example.png",
     "Graph Theory/Domination Theory/Illustrations",
     "Graph Theory/Domination Theory",

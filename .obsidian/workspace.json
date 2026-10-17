@@ -53,16 +53,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Order Theory/WOS and Transfinite Induction/Wosets with FPP Criteria.md",
+                "file": "Order Theory/WOS and Transfinite Induction/Every Woset Element has Successor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wosets with FPP Criteria"
+              "title": "Every Woset Element has Successor"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,10 +236,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8db171f8c9c8f0d",
+  "active": "963d1df56e216076",
   "lastOpenFiles": [
-    "Order Theory/Fixed Points/Fixed Point and Fixed-Point-Free.md",
+    "Order Theory/WOS and Transfinite Induction/Every Woset Element has Successor.md",
     "Order Theory/WOS and Transfinite Induction/Wosets with FPP Criteria.md",
+    "Order Theory/Fixed Points/Fixed Point and Fixed-Point-Free.md",
     "Order Theory/WOS and Transfinite Induction/Woset through Subposets having Least Element.md",
     "Order Theory/Chains and Antichains/Linear Order (Chain).md",
     "Order Theory/Chains and Antichains/Antichain.md",
@@ -255,7 +255,6 @@
     "Order Theory/WOS and Transfinite Induction/Well-Ordered Set.md",
     "Order Theory/WOS and Transfinite Induction/Well-Founded Order Criteria.md",
     "Order Theory/WOS and Transfinite Induction/Well-Founded Order.md",
-    "Order Theory/WOS and Transfinite Induction/Every Woset Element has Successor.md",
     "Order Theory/Basics/Least and Greatest Elements.md",
     "Graph Theory/Simpliciality/Simplicial Vertex Criterion.md",
     "Graph Theory/Simpliciality/Simplicial Clique Criterion.md",

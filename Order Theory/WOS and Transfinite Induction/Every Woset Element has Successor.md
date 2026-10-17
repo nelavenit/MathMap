@@ -12,3 +12,5 @@ $\blacktriangle$ Consider $W \setminus \mathord{\downarrow}{w}$, it [[Woset thro
 **Notation.** In the similar manner sometimes a [[Lower and Upper Covers, Adjacence|lower cover]] in a woset is called a <u>predecessor</u>,
 
 **Remark.** In some sources the successor element of $w$ is denoted as $S(w)$, and then $w + 3$ is $S(S(S(w))) = S^3(w)$.
+
+**Remark.** In some sources the successor is called an <u>immediate successor</u>. See, for example, Pr.2.58 in @schroderOrderedSetsIntroduction2016.

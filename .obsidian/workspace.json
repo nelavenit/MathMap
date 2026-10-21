@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AC-Zermelo-Zorn/Zorn's Lemma.md",
+                "file": "Order Theory/Morphisms/Strict Order Homomorphism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zorn's Lemma"
+              "title": "Strict Order Homomorphism"
             }
           }
         ],
@@ -112,7 +112,7 @@
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
                 "showSearch": true,
-                "searchQuery": "zor"
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -267,11 +267,11 @@
   },
   "active": "ca7110bcd33c50b1",
   "lastOpenFiles": [
+    "AC-Zermelo-Zorn/Zorn's Lemma.md",
     "Order Theory/WOS and Transfinite Induction/Every Woset Element has Successor.md",
     "Order Theory/WOS and Transfinite Induction/Comparing Downsets of Woset.md",
     "Order Theory/WOS and Transfinite Induction/Form of Arbitrary Element of Woset.md",
     "Order Theory/WOS and Transfinite Induction/Form of Arbitrary Downset of Woset.md",
-    "AC-Zermelo-Zorn/Zorn's Lemma.md",
     "Order Theory/WOS and Transfinite Induction/Wosets with FPP Criteria.md",
     "Order Theory/Fixed Points/Fixed Point and Fixed-Point-Free.md",
     "Order Theory/WOS and Transfinite Induction/Woset through Subposets having Least Element.md",

@@ -88,9 +88,21 @@
               "icon": "lucide-file",
               "title": "Strict Order Homomorphism"
             }
+          },
+          {
+            "id": "d32a98fead579c21",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.5"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -265,7 +277,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca7110bcd33c50b1",
+  "active": "d32a98fead579c21",
   "lastOpenFiles": [
     "AC-Zermelo-Zorn/Zorn's Lemma.md",
     "Order Theory/WOS and Transfinite Induction/Every Woset Element has Successor.md",

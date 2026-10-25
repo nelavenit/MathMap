@@ -6,7 +6,7 @@ tags:
 
 **Definitions.** Let $\mathbb{G} = (G, E)$ be a graph. Elements of $G$ are called <u>vertices</u>. Elements of $E$ are called <u>edges</u>.
 
-**Definition.** Let $\mathbb{G} = (G, E)$ be a graph. Vertices $u,v \in G$ are called <u>adjacent</u>, if $(u,v) \in E$.
+**Definition.** Let $\mathbb{G} = (G, E)$ be a graph. Vertices $u,v \in G$ are called <u>adjacent</u>, if $(u,v) \in E$. Set $E$ is called an <u>adjacency</u> relation
 
 
 TODO Examples

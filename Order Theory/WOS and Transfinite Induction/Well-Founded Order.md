@@ -9,7 +9,7 @@ A natural question is: for which orders analogous principle would work?
 
 By the [[Well-Founded Order Criteria|criteria]] we get that well-founded posets are exactly the ones induction principle applies to.
 
-**Definition.** A [[Partial Order|poset]] $\mathbb{P} = (P, \leq)$ is called <u>well-founded</u> if every non-empty [[Subposet|subposet]] of $\mathbb{P}$ has a [[Minimal and Maximal Elements|minimal element]].
+**Definition.** A [[Partial Order|poset]] $\mathbb{P} = (P, \leq)$ is called <u>well-founded</u> if every non-empty [[Induced Subposet|subposet]] of $\mathbb{P}$ has a [[Minimal and Maximal Elements|minimal element]].
 
 **Examples.**
 1. $\mathbb{N}$ with a natural ordering is well-founded

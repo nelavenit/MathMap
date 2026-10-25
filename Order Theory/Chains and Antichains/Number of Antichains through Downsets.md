@@ -3,7 +3,7 @@ tags:
   - Statement
   - Finite
 ---
-**Intuition.** In *finite* [[Partial Order|orders]] every [[Upset and Downset|downset]] in uniquely defined by the set of its [[Minimal and Maximal Elements|maximal elements]]. At the same time, for any [[Subposet|subposet]] the set of maximal elements is an [[Antichain|antichain]]. So comes the following relation between antichains and downsets.
+**Intuition.** In *finite* [[Partial Order|orders]] every [[Upset and Downset|downset]] in uniquely defined by the set of its [[Minimal and Maximal Elements|maximal elements]]. At the same time, for any [[Induced Subposet|subposet]] the set of maximal elements is an [[Antichain|antichain]]. So comes the following relation between antichains and downsets.
 
 **Statement.** Let $\mathbb{P} = (P, \leq)$ be a *finite* order. Then the number of antichains in $\mathbb{P}$ is equal to the number of downsets in $\mathbb{P}$.
 $\blacktriangle$ Define $\mathcal{D}(\mathbb{P})$ be a set of all the downsets of $\mathbb{P}$ and $\mathcal{A}(\mathbb{P})$ be a set of all antichains in $\mathbb{P}$. Let's show, that $F: \mathcal{A}(\mathbb{P}) \rightarrow \mathcal{D}(\mathbb{P})$ s.t. $F: A \mapsto \mathord{\downarrow}A$ is a bijection with $F^{-1}(D) \equiv \max(D)$:

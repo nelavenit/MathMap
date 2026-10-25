@@ -3,7 +3,7 @@ tags:
   - Definition
   - Order-Theory
 ---
-**Definition.** Let $\mathbb{P} = (P, \leq)$ be a poset and $Q \subseteq P$, then $(Q, \leq|_{Q \times Q}) := (Q, \leq \cap\ Q \times Q)$ is called a <u>subposet of </u>$\mathbb{P}$<u> induced by </u>$Q$ and is denoted by $\mathbb{P}|_{Q}$. Any induced subposet is also called simply a <u>subposet of </u>$\mathbb{P}$. 
+**Definition.** Let $\mathbb{P} = (P, \leq)$ be a poset and $Q \subseteq P$, then $(Q, \leq|_{Q \times Q}) := (Q, \leq \cap\ Q \times Q)$ is called a <u>subposet of </u>$\mathbb{P}$<u> induced by </u>$Q$ and is denoted by $\mathbb{P}|_{Q}$. Any subposet induced by some $\mathbb{Q}$ is also called simply an <u>induced subposet of </u>$\mathbb{P}$. 
 
 **Examples.** 
 ![[Subposet Example.png|400]]

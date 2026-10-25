@@ -3,7 +3,7 @@ tags:
   - Statement
 ---
 **Statement.** (Theorem 15 from @vereshchaginNachalaTeoriiMnozhestv2012) Let $\mathbb{P} = (P, \leq)$ be a [[Partial Order|poset]]. Then the following properties are equivalent:
-1. $\mathbb{P}$ is [[Well-Founded Order|well-founded]], i.e. any non-empty [[Subposet|subposet]] of $\mathbb{P}$ has a [[Minimal and Maximal Elements|minimal element]]
+1. $\mathbb{P}$ is [[Well-Founded Order|well-founded]], i.e. any non-empty [[Induced Subposet|subposet]] of $\mathbb{P}$ has a [[Minimal and Maximal Elements|minimal element]]
 
 2. There is no infinite strictly decreasing sequence $p_0 > p_1 > p_2 > \ldots$ of elements of $\mathbb{P}$
 

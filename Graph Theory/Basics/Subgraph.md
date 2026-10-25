@@ -12,4 +12,4 @@ tags:
 4. ![[Subgraph Example 05.png]]
 5. Every induced subgraph is a subgraph
 
-**Remark.** Different from induced subgraph and [[Subposet|subposet]], where no relations/edges removal is allowed.
+**Remark.** Different from induced subgraph and [[Induced Subposet|subposet]], where no relations/edges removal is allowed.

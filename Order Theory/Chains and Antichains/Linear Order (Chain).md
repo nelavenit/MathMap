@@ -4,7 +4,7 @@ tags:
 ---
 **Definition.** A [[Partial Order|poset]] $\mathbb{P} = (P, ≤)$ is called a <u>linear order</u> or a <u>chain</u> if all the elements of $\mathbb{P}$ are $\leq$-comparable, i.e. $\forall p_1, p_2 \in P$ $\left[ \begin{array}{ll} \ p_1 \leq p_2 \\\ p_2 \leq p_1 \end{array} \right .$. Relation $\leq$ is called a <u>linear ordering</u>.
 
-**Definition.** Let $\mathbb{P} = (P, \leq)$ be a poset and $C \subseteq P$. If [[Subposet|subposet]] $\mathbb{P}|_C$ is a linear order, we call $C$ a <u>chain in </u>$\mathbb{P}$.
+**Definition.** Let $\mathbb{P} = (P, \leq)$ be a poset and $C \subseteq P$. If [[Induced Subposet|subposet]] $\mathbb{P}|_C$ is a linear order, we call $C$ a <u>chain in </u>$\mathbb{P}$.
 
 **Examples.** 
 1. ![[Linear Order Example 01.png|250]]

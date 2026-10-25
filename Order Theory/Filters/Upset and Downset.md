@@ -7,7 +7,7 @@ tags:
 
 **Notation.** If the poset whose downsets/upsets we are considering is obvious from the context we may omit the phrase "of $\mathbb{P}$".
 
-**Notation.** Sometimes we would refer to a [[Subposet|subposet]] $(U,\leq|_{U\times U})$ as to an upset and the same with a downset.
+**Notation.** Sometimes we would refer to a [[Induced Subposet|subposet]] $(U,\leq|_{U\times U})$ as to an upset and the same with a downset.
 
 **Notation.** Let $\mathbb{P} = (P, \leq)$ be a poset and $X \subseteq P$. Analogously to [[Principal Filter and Ideal|principal filters and ideals]] we define $\mathord{\uparrow} X := \bigcup\limits_{x\in X} \mathord{\uparrow} x$ and $\mathord{\downarrow} X := \bigcup\limits_{x\in X} \mathord{\downarrow} x$.
 **Statement.** For any $X \subseteq P$ we have $\mathord{\uparrow} X$ is an upset and $\mathord{\downarrow} X$ is a downset.

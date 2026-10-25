@@ -2,7 +2,7 @@
 tags:
   - Definition
 ---
-**Definition.** A [[Partial Order|poset]] is called <u>N-free</u> if it doesn't contain [[N-Order|N-order]] as a [[Subposet|subposet]]. (Note: exactly N-order, with no further comparabilities)
+**Definition.** A [[Partial Order|poset]] is called <u>N-free</u> if it doesn't contain [[N-Order|N-order]] as a [[Induced Subposet|subposet]]. (Note: exactly N-order, with no further comparabilities)
 
 **Examples.** 
 1. ![[Non N-Free Poset Example 01.png|200]] – not N-free (N-order subposet marked blue)

@@ -14,5 +14,5 @@ tags:
 
 **Examples.** 
 1. Number of vertices
-2. [[Kelly Lemma]]: number of [[Subposet|subposets]] isomorphic to the given order
+2. [[Kelly Lemma]]: number of [[Induced Subposet|subposets]] isomorphic to the given order
 3. [[Number of Comparabilities and Degree of Missing Element are Reconstructible]]

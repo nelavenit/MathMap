@@ -7,7 +7,7 @@ tags:
 
 **Notation.** When the corresponding relation is obvious from the context we may, for simplicity, call the $S$ itself the subgraph.  
 
-**Remark.** Is a direct graph analog of order theory [[Subposet|subposet]]. Unlike [[Subgraph|subgraph]], that allows to remove edges from the induced subgraph.
+**Remark.** Is a direct graph analog of order theory [[Induced Subposet|subposet]]. Unlike [[Subgraph|subgraph]], that allows to remove edges from the induced subgraph.
 
 **Examples.** Consider the following graph ![[Induced Subgraph Example 01.png]] 
 1. ![[Induced Subgraph Example 02.png|235]]  is a subgraph induced by $\{a,b,c\}$

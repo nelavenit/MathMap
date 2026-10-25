@@ -1,8 +1,9 @@
 ---
 tags:
   - Statement
+  - Relation-Theory
 ---
-**Statement 1.** Let $A$ be a set with $|A| = n$, then there are exactly $2^n$ binary relations on $A$ that are both [[Symmetry|symmetric]] and [[Antisymmetry|antisymmetric]].
+**Statement 1.** Let $A$ be a set with $|A| = n$, then there are exactly $2^n$ [[Relation and Relational Structure|binary relations]] on $A$ that are both [[Symmetry|symmetric]] and [[Antisymmetry|antisymmetric]].
 $\blacktriangle$ Let $a_1, a_2 \in A$ and $\circ$ be a symmetric antisymmetric binary relation on $A$. If $a_1 \neq a_2$, then:
 1. If $a_1 \circ a_2$ and $a_2 \circ a_1$, then $\circ$ is not antisymmetric
 2. Else if $a_1 \circ a_2$ and $a_2 \centernot\circ a_1$, then $\circ$ is not symmetric

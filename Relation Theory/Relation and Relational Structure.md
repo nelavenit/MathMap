@@ -3,7 +3,7 @@ tags:
   - Relation-Theory
   - Definition
 ---
-**Definition.** Let $A_1,\ldots,A_n$ be sets, where $n\geq1$. A subset $R\subseteq A_1\times\cdots\times A_n$ is called an $n$-<u>ary relation</u> between_ $A_1,\ldots,A_n$. If $A_1=\cdots=A_n=A$, it is called an $n$<u>-ary relation</u> on $A$. 
+**Definition.** Let $A_1,\ldots,A_n$ be sets, where $n\geq1$. A subset $R\subseteq A_1\times\cdots\times A_n$ is called an $n$-<u>ary relation</u> between $A_1,\ldots,A_n$. If $A_1=\cdots=A_n=A$, it is called an $n$<u>-ary relation</u> on $A$. 
 
 **Definition.** Let $R$ be a $2$-ary relation, then it is called a <u>binary relation</u> and $(a_1, a_2) \in R$ is denoted by $a_1 \mathrel{R} a_2$. 
 
@@ -15,6 +15,8 @@ tags:
 The set $A$ is called its <u>underlying set</u> or <u>domain</u>.
 
 **Notation.** If the family consists of a single relation $R$, we write $\mathbb{A} = (A, R)$, omitting the one-element tuple notation.
+
+**Definition.** A fixed indexed family of relational symbols $(R_i)_{i \in I}$ with $R_i$ having fixed arities 
 
 **Examples.**
 1. [[Preorder]] is a relational structure, with a [[Preorder|preordering]] being a binary relation

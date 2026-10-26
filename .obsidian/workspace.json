@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relation Theory/Heredity and Monotonicity/Hereditary Class.md",
+                "file": "Graph Theory/Heredity and Monotonicity/Hereditary Graph Class.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hereditary Class"
+              "title": "Hereditary Graph Class"
             }
           }
         ],
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relation Theory/Heredity and Monotonicity/Hereditary Class.md",
+                "file": "Graph Theory/Heredity and Monotonicity/Hereditary Graph Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,12 +266,14 @@
   },
   "active": "dde97d48216f36d6",
   "lastOpenFiles": [
+    "Relation Theory/Heredity and Monotonicity/_Monotone Closure.md",
+    "Graph Theory/Heredity and Monotonicity/Hereditary Graph Class.md",
+    "Relation Theory/Heredity and Monotonicity/_Monotone Class.md",
+    "Relation Theory/Heredity and Monotonicity/_Hereditary Closure.md",
+    "Relation Theory/Heredity and Monotonicity/_Hereditary Class.md",
+    "Graph Theory/Heredity and Monotonicity",
     "Relation Theory/Substructure.md",
     "Relation Theory/Class of Relational Structures.md",
-    "Relation Theory/Heredity and Monotonicity/Hereditary Class.md",
-    "Relation Theory/Heredity and Monotonicity/Monotone Class.md",
-    "Relation Theory/Heredity and Monotonicity/Hereditary Closure.md",
-    "Relation Theory/Heredity and Monotonicity/Monotone Closure.md",
     "Graph Theory/Chordal Graphs/Chordal Graph.md",
     "Order Theory/Certain Orders/Powerset and Boolean Lattices/Rank in Finite Powerset Lattice.md",
     "Order Theory/Certain Orders/Powerset and Boolean Lattices/Powerset Lattice.md",
@@ -291,7 +293,6 @@
     "Order Theory/Certain Orders/Fence and Crown/Fence End(F) Size Upper Bound.md",
     "Order Theory/Certain Orders/Fence and Crown/Fence.md",
     "Order Theory/Certain Orders/Fence and Crown/Every Crown FPF Endomorphism is Automorphism.md",
-    "Order Theory/Certain Orders/Fence and Crown/Different ways to draw Crown.md",
     "Order Theory/Reconstruction Problem/4-Element Orders without some N-Order Card.png",
     "Relation Theory/Heredity and Monotonicity",
     "Graph Theory/Chordal Graphs",
@@ -310,7 +311,6 @@
     "Order Theory/Certain Orders/Powerset and Boolean Lattices/Illustrations",
     "Order Theory/Certain Orders/Fence and Crown/Illustrations",
     "Order Theory/Chains and Antichains/Illustrations",
-    "Order Theory/Certain Orders/N-Orders/Illustrations",
-    "Order Theory/Basics/Illustrations"
+    "Order Theory/Certain Orders/N-Orders/Illustrations"
   ]
 }

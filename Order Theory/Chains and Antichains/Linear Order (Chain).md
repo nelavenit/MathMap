@@ -23,7 +23,7 @@ tags:
 
 **Remark.** Another commonly used names for a linear order are <u>total order</u>, <u>linearly ordered set</u> and <u>totally ordered set</u>.
 
-**Remark.** A chain in $\mathbb{P}$ is a subset of $P$, not a subposet, similarly to the "[[Complete Graph (Clique)|clique]] of $\mathbb{G}$" in [[Graph|graph]] theory.
+**Remark.** A chain in $\mathbb{P}$ is a subset of $P$, not a subposet of $\mathbb{P}$, similarly to the "[[Complete Graph (Clique)|clique]] of $\mathbb{G}$" in [[Graph|graph]] theory.
 
 **Statement.** Being a linear order is [[Self-dual Properties|self-dual]].
 $\color{red}\text{Proof}$ is a simple exercise.

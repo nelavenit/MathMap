@@ -2,6 +2,7 @@
 tags:
   - Definition
   - Finite
+  - Order-Theory
 ---
 **Definition.** <u>N<sup>th</sup> Dedekind number</u> is a number of [[Antichain|antichains]] in the [[Powerset Lattice|powerset lattice]] of an $n$-element set, i.e. in $(\mathcal{P}(\{1,2,\ldots,n\}), \subseteq)$. 
 

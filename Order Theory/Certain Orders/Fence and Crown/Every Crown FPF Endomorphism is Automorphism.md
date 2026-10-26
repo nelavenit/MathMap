@@ -2,6 +2,7 @@
 tags:
   - Finite
   - Statement
+  - Order-Theory
 ---
 **Statement.** Let $\mathbb{C_n} = (C_n, \leq)$ be a $n$-[[Crown|crown]] and $f$ be a [[Fixed Point and Fixed-Point-Free|fixed-point-free]] [[Order Endomorphism|endomorphism]] of $\mathbb{C}_n$. Then $f$ is an [[Order Automorphism|automorphism]].
 $\blacktriangle$ Assume toward contradiction $f$ is non-automorphic fixed-point-free endomorphism. Crown is a finite order so by [[Bijective Endomorphism of Finite Order]] we know $f$ is automorphism $\iff$ $f$ is a bijective endomorphism, so $f$ must be non-bijective, hence $f[C_n]\subsetneq C_n$. At the same time, $\mathbb{C}_n$ is connected, hence $f[C_n]$ is connected too. So the [[Induced Subposet|subposet induced by]] $f[C_n]$ is a [[Connectivity|connected]] induced subposet of a crown, which is not a full crown $\implies$ $f[C_n]$ is a [[Fence|fence]].

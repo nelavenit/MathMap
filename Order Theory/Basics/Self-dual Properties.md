@@ -1,6 +1,7 @@
 ---
 tags:
   - Definition
+  - Order-Theory
 ---
 **Definition.** Properties that are their own [[Dual Properties|dual]] are called <u>self-dual</u>.
 

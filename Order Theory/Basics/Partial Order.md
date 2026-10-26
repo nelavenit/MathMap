@@ -1,6 +1,7 @@
 ---
 tags:
   - Definition
+  - Order-Theory
 ---
 **Definition.** Let $P$ be a set and $\leq$ be a relation on $P$. Then $\leq$ is called a <u>partial order relation</u> or simply <u>order relation</u> if it is:
 1. [[Reflexivity|Reflexive]]

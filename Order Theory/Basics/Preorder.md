@@ -1,6 +1,7 @@
 ---
 tags:
   - Definition
+  - Order-Theory
 ---
 **Definition.** Let $P$ be a set and $\leq$ be a binary relation on $P$. Then $\leq$ is called a <u>preorder</u> if $\leq$ is 
 1) [[Transitivity |Transitive]]

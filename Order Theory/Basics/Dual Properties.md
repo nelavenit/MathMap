@@ -1,6 +1,7 @@
 ---
 tags:
   - Definition
+  - Order-Theory
 ---
 **Definition.** Properties of [[Partial Order|order]]/order elements/[[Subposet|subposets]]/[[Induced Subposet|induced subposets]] that are obtained from each other by reversing all the comparabilities (i.e. considering the [[Dual Order|dual order]]) are called <u>dual properties</u>.
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - Definition
+  - Order-Theory
 ---
 **Intuition.** Let's stack [[Crown|crowns]] of the same size on top of each other, with the bottom of the upper crown being the top of the lower crown. Let's first give example [[Hasse Diagram|Hasse diagrams]] and give a formal (rather tedious, but obvious) definition of this [[Partial Order|poset]] after. 
 

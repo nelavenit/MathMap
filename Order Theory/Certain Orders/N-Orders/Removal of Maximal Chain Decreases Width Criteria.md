@@ -1,6 +1,7 @@
 ---
 tags:
   - Statement
+  - Order-Theory
 ---
 **Intuition.** In [[Dilworth's Chain Decomposition Theorem]] we were searching for a decomposition of a [[Partial Order|poset]] of the [[Width|width]] $k$ into $k$ [[Linear Order (Chain)|chains]]. The naive idea of taking arbitrary [[Maximal Chain|maximal chain]] to decrease the width didn't work, so we used a maximal strong k-dependent chain instead. But it's interesting to investigate when exactly just taking the maximal chain is enough.
 

@@ -2,6 +2,7 @@
 tags:
   - Finite
   - Example
+  - Order-Theory
 ---
 **Intuition.** There are many different ways to draw the [[Hasse Diagram|Hasse diagram]] of a [[Crown|crown]].
 

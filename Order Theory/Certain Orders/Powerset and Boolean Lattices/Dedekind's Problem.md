@@ -2,6 +2,7 @@
 tags:
   - Open-Problem
   - Finite
+  - Order-Theory
 ---
 **Open Problem.** What's n<sup>th</sup> [[Dedekind Numbers|Dedekind number]].
 

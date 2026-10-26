@@ -1,6 +1,7 @@
 ---
 tags:
   - Definition
+  - Order-Theory
 ---
 **Definition.** Let $\mathbb{P}=(P,\leq_P)$, $\mathbb{Q}=(Q,\leq_Q)$ be [[Partial Order|posets]]. We denote $\mathbb{P}+\mathbb{Q}$ the order $(P\cup Q,\leq)$, where
 1. if $a,b\in P$, then $a\leq b \Leftrightarrow a\leq_p b$

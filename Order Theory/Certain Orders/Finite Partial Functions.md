@@ -1,6 +1,7 @@
 ---
 tags:
   - Example
+  - Order-Theory
 ---
 **Definition.** Let $D, R$ be arbitrary sets, then the set of <u>finite partial functions</u> denoted as $Fn(D,R)$ is a set of all functions $f$ such that:
 1. $\text{dom}(f)$ is a finite subset of $D$ (i.e. $\text{dom}(f) \in \text{fin}(D)$)

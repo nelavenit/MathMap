@@ -1,6 +1,7 @@
 ---
 tags:
   - Definition
+  - Order-Theory
 ---
 **Definition.** Let $\mathbb{P}=(P,\leq)$ be a [[Partial Order|poset]], then $(P,\geq)$ is called <u>dual order</u> (<u>dual ordered set</u>) of $\mathbb{P}$ and is denoted $\mathbb{P}^d$.
 

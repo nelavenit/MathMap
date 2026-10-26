@@ -1,6 +1,7 @@
 ---
 tags:
   - Example
+  - Order-Theory
 ---
 **Statement.** Let $A$ be a set of sets (also called a collection of sets), then $(A, \subseteq)$ and $(A, \supseteq)$ are [[Partial Order|posets.]] 
 $\color{red}\text{Proof}$ is a trivial exercise.

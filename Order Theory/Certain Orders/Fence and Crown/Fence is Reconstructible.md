@@ -2,6 +2,7 @@
 tags:
   - Statement
   - Finite
+  - Order-Theory
 ---
 **Statement.** [[Fence|Fences]] of at least 4 elements are [[Reconstructibility|reconstructible]].
 $\blacktriangle$ Let's show that: $\mathbb{P}$ is a fence of at least 4 elements $\iff$ two [[Card|cards]] of $\mathbb{P}$

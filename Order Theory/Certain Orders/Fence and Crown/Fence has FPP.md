@@ -2,6 +2,7 @@
 tags:
   - Finite
   - Statement
+  - Order-Theory
 ---
 **Statement.** Every [[Fence|fence]] has a [[Fixed Point Property|fixed point property]].
 $\blacktriangle$ (Pr.2.39. from @schroderOrderedSetsIntroduction2016)

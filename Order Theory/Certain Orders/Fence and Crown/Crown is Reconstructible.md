@@ -2,6 +2,7 @@
 tags:
   - Statement
   - Finite
+  - Order-Theory
 ---
 **Statement.** [[Crown|Crowns]] are [[Reconstructibility|reconstructible]].
 $\blacktriangle$ It suffices to prove:

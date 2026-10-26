@@ -1,6 +1,7 @@
 ---
 tags:
   - Definition
+  - Order-Theory
 ---
 **Definition.** Let $\mathbb{P} = (P, \leq_P)$ and $\mathbb{Q} = (Q, \leq_Q)$ be [[Partial Order|posets]]. Then <u>lexicographic order</u> (denoted as $\mathbb{P} \times \mathbb{Q}$) is $P \times Q$ with such $\leq$, that:
 $$(p_1, q_1) \leq (p_2, q_2) \overset{\text{def}}{\Leftrightarrow} \left[ \begin{array}{ll} p_1 <_P p_2 \\ \begin{cases} p_1 = p_2 \\ q_1 \leq_Q q_2 \end{cases} \end{array} \right .$$

@@ -2,6 +2,7 @@
 tags:
   - Definition
   - Finite
+  - Order-Theory
 ---
 **Definition.** Let $n \in \mathbb{N}$ be $\geq 2$. Then a [[Partial Order|poset]] $\mathbb{C} = (C, \leq)$ is called a <u>2n-crown</u> if $C = \{b_1, \ldots, b_n, t_1, \ldots, t_n\}$ is a set of $2n$ elements and $b_1 < t_1, t_1 > b_2, b_2 < t_2, \ldots t_{n-1} > b_{n}, b_{n} < t_n, t_n > b_1$ are the only strict comparabilities.
 

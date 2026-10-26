@@ -1,6 +1,7 @@
 ---
 tags:
   - Open-Problem
+  - Order-Theory
 ---
 **Open problem.** As shown [[Removal of Maximal Chain Decreases Width Criteria|here]], in the case of a finite [[Partial Order|poset]] $\mathbb{P} = (P, \leq)$, $\mathbb{P}$ being [[N-Freeness|N-free]] is enough for width to decrease with the removal of any maximal chain. But what happens in the case of $\vert P\vert =\infty$, $w(\mathbb{P})<\infty$?
 1. In @grilletMaximalChainsAntichains1969 it was shown that for regular orders (orders in which every non-empty chain has inf. and sup.) we would get the same result, even more: [[Proper N-Freeness|proper N-freeness]] (weaker than N-freeness) $\Longleftrightarrow$ [[CAC]] ([[Removal of Maximal Chain Decreases Width Criteria|equivalent to the "removal of any maximal chain strictly decreases the width"]]).

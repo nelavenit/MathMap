@@ -1,6 +1,7 @@
 ---
 tags:
   - Statement
+  - Order-Theory
 ---
 **Statement.** Every [[Crown|crown]] is [[Fixed-Point-Free Automorphic Order|FPF automorphic]].
 $\blacktriangle$ Let $\mathbb{C} = (\{c_1,\ldots,c_n\}, \leq)$ be an n-crown, then $f$ such, that $$

@@ -1,6 +1,7 @@
 ---
 tags:
   - Definition
+  - Order-Theory
 ---
 **Definition.** Let $(P,\leq)$ be a [[Partial Order|poset]]. Then $p \in P$ is called a <u>lower cover</u> of $q \in P$ (and $q$ is called an <u>upper cover</u> of $p$) iff $p<q$ and $∀z∈P$ we have that $p≤z≤q$ implies $z∈\{p,q\}$. We write p $\prec$ q . 
 

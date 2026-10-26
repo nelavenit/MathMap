@@ -1,8 +1,9 @@
 ---
 tags:
   - Definition
+  - Order-Theory
 ---
-**Definition.** Let $\mathbb{P} = (P, \leq)$ be a [[Partial Order|poset]]. [[Induced Subposet]] of four elements $a,b,c,d \in P$ is called a <u>N'-suborder</u> if 
+**Definition.** Let $\mathbb{P} = (P, \leq)$ be a [[Partial Order|poset]]. [[Induced Subposet|Induced subposet]] of four elements $a,b,c,d \in P$ is called an <u>N'-suborder</u> if 
 $$\begin{cases}
 a < b \succ c < d \\
 a \nsim c \\

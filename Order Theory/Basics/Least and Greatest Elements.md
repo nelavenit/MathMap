@@ -1,6 +1,7 @@
 ---
 tags:
   - Definition
+  - Order-Theory
 ---
 **Definition.** Let $\mathbb{P} = (P, \leq)$ be a [[Partial Order|poset]], $l \in P$ is called <u>least</u> element of $\mathbb{P}$ iff $\forall p \in P$ we have $l \leq p$. 
 **Remark.** Sometimes the term used is <u>smallest</u>, but semantically least is better because we say it is an element that is *less* than the rest, not *smaller* than the rest.

@@ -26,6 +26,6 @@ Let $A$ be an [[Antichain|antichain]] in $(P \setminus C, \leq|_{P\setminus C \t
 
 
 **Exercise.** (2-17b from @schroderOrderedSetsIntroduction2016) Prove the inverse is wrong. (Solved it myself)
-**Statement.** The inverse is wrong: there exists a finite poset for which removal of any maximal chain decreases the width, but a poset has an N-order [[Induced Subposet|subposet]].
+**Statement.** The inverse is wrong: there exists a finite poset for which removal of any maximal chain decreases the width, but a poset has an N-order [[Induced Subposet|induced subposet]].
 $\blacktriangle$ ![[Chain Removal Decreases Width Reverse Counterexample.png|200]]
 Drawn poset in not N-free, $w(P) = 4$, but for any maximal chain $C$, $w(p \setminus C) = 3$. 

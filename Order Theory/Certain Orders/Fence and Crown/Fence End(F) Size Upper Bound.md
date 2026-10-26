@@ -2,6 +2,7 @@
 tags:
   - Statement
   - Finite
+  - Order-Theory
 ---
 **Statement.** Let $n$ be a natural number and $\mathbb{F}_n = (F_n, \leq)$ be a [[Fence|fence]] of $n$ elements. Then the $End(\mathbb{F}_n) \leq n 3^{n-1}$.
 $\blacktriangle$ Let $f_0$ be an [[Fence|endpoint]] of $\mathbb{F}_n$, we would build [[Order Endomorphism|endomorphism]] $\phi$ step by step:

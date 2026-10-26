@@ -2,6 +2,7 @@
 tags:
   - Statement
   - Finite
+  - Order-Theory
 ---
 **Statement.** Consider [[Powerset Lattice|powerset lattice]] of the *finite* set $X$ — $(\mathcal{P}(X), \subseteq)$. The [[Rank|rank]] of $A \subseteq X$ is exactly $|A|$.
 $\blacktriangle$ 

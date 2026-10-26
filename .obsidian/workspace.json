@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relation Theory/Substructure.md",
+                "file": "Relation Theory/Induced Substructure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Substructure"
+              "title": "Induced Substructure"
             }
           },
           {
@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph Theory/Basics/Graph.md",
+                "file": "Graph Theory/Basics/Subgraph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Graph"
+              "title": "Subgraph"
             }
           },
           {
@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Order Theory/Basics/Induced Subposet.md",
+                "file": "Graph Theory/Basics/Induced Subgraph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Induced Subposet"
+              "title": "Induced Subgraph"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Order Theory/Basics/Induced Subposet.md",
+                "file": "Graph Theory/Basics/Induced Subgraph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,17 +252,21 @@
   },
   "active": "92c04cd9c07aaafe",
   "lastOpenFiles": [
-    "Order Theory/Basics/Greatest Lower Bound and Least Upper Bound.md",
+    "Graph Theory/Basics/Subgraph.md",
     "Order Theory/Basics/Induced Subposet.md",
     "Graph Theory/Basics/Induced Subgraph.md",
-    "Order Theory/Certain Orders/Fence and Crown/Every Crown FPF Endomorphism is Automorphism.md",
+    "Relation Theory/Induced Substructure.md",
+    "Order Theory/Basics/Subposet.md",
+    "Relation Theory/Substructure.md",
     "Graph Theory/Basics/Graph.md",
+    "Order Theory/Chains and Antichains/Linear Order (Chain).md",
+    "Order Theory/Reconstruction Problem/Kelly Lemma.md",
+    "Order Theory/Certain Orders/N-Orders/N-Order.md",
+    "Order Theory/Basics/Greatest Lower Bound and Least Upper Bound.md",
+    "Order Theory/Certain Orders/Fence and Crown/Every Crown FPF Endomorphism is Automorphism.md",
     "Order Theory/Connectivity/Connectivity.md",
     "Order Theory/Basics/Dual Properties.md",
-    "Order Theory/Basics/Subposet.md",
     "AC-Zermelo-Zorn/Cardinality Comparison.md",
-    "Relation Theory/Substructure.md",
-    "Relation Theory/Induced Substructure.md",
     "Relation Theory/Relation and Relational Structure.md",
     "Graph Theory/Heredity and Monotonicity/Hereditary Class.md",
     "Order Theory/Reconstruction Problem/4-Element Orders without some N-Order Card.png",
@@ -275,10 +279,6 @@
     "Relation Theory/Symmetry.md",
     "Relation Theory/Transitivity.md",
     "Graph Theory/Basics/Directed Graph.md",
-    "Maximal Clique Existance.md",
-    "01 Idea.md",
-    "Graph Theory/Heredity and Monotonicity/Monotone Class.md",
-    "Graph Theory/Basics/Subgraph.md",
     "Graph Theory/Heredity and Monotonicity",
     "Graph Theory/Chordal Graphs",
     "Graph Theory/Domination Theory/Illustrations/Minimal Dominating non-Independent Set Example.png",

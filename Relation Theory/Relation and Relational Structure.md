@@ -16,7 +16,7 @@ The set $A$ is called its <u>underlying set</u> or <u>domain</u>.
 
 **Notation.** If the family consists of a single relation $R$, we write $\mathbb{A} = (A, R)$, omitting the one-element tuple notation.
 
-**Definition.** A fixed indexed family of relational symbols $(R_i)_{i \in I}$ with $R_i$ having fixed arities 
+**Definition.** A fixed indexed family of relational (i.e. predicate) symbols $(R_i)_{i \in I}$ with every $R_i$ having fixed aritie $n_i$ is called a <u>relational signature</u>. 
 
 **Examples.**
 1. [[Preorder]] is a relational structure, with a [[Preorder|preordering]] being a binary relation

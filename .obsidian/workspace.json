@@ -75,8 +75,7 @@
               "title": "Relation and Relational Structure"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +150,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Order Theory/Basics/Induced Subposet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,13 +248,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f982d0585fb96fb8",
+  "active": "963d1df56e216076",
   "lastOpenFiles": [
+    "Order Theory/Basics/Induced Subposet.md",
     "Graph Theory/Heredity and Monotonicity/Hereditary Class.md",
     "Order Theory/Reconstruction Problem/4-Element Orders without some N-Order Card.png",
     "Order Theory/Reconstruction Problem/Deck.md",
     "Order Theory/Reconstruction Problem/Card.md",
-    "Order Theory/Basics/Induced Subposet.md",
     "Relation Theory/Induced Substructure.md",
     "Relation Theory/Antisymmetry.md",
     "Relation Theory/Irreflexivity.md",

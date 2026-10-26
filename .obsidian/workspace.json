@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph Theory/Heredity and Monotonicity/Monotone Closure.md",
+                "file": "Relation Theory/Substructure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monotone Closure"
+              "title": "Substructure"
             }
           }
         ],
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph Theory/Heredity and Monotonicity/Monotone Closure.md",
+                "file": "Relation Theory/Substructure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,8 +264,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cdaf15c423be4a85",
+  "active": "dde97d48216f36d6",
   "lastOpenFiles": [
+    "Relation Theory/Class of Relational Structures.md",
+    "Relation Theory/Heredity and Monotonicity/Hereditary Class.md",
+    "Relation Theory/Heredity and Monotonicity/Monotone Class.md",
+    "Relation Theory/Heredity and Monotonicity/Hereditary Closure.md",
+    "Relation Theory/Heredity and Monotonicity/Monotone Closure.md",
     "Graph Theory/Chordal Graphs/Chordal Graph.md",
     "Order Theory/Certain Orders/Powerset and Boolean Lattices/Rank in Finite Powerset Lattice.md",
     "Order Theory/Certain Orders/Powerset and Boolean Lattices/Powerset Lattice.md",
@@ -287,13 +292,8 @@
     "Order Theory/Certain Orders/Fence and Crown/Every Crown FPF Endomorphism is Automorphism.md",
     "Order Theory/Certain Orders/Fence and Crown/Different ways to draw Crown.md",
     "Order Theory/Certain Orders/Fence and Crown/Crown Tower.md",
-    "Order Theory/Certain Orders/Fence and Crown/Crown is Reconstructible.md",
-    "Order Theory/Certain Orders/Fence and Crown/Crown is FPF Automorphic.md",
-    "Order Theory/Certain Orders/Fence and Crown/Crown.md",
-    "Order Theory/Basics/Subposet.md",
-    "Order Theory/Basics/Set with Subset Relation is Poset.md",
     "Order Theory/Reconstruction Problem/4-Element Orders without some N-Order Card.png",
-    "Graph Theory/Heredity and Monotonicity",
+    "Relation Theory/Heredity and Monotonicity",
     "Graph Theory/Chordal Graphs",
     "Graph Theory/Domination Theory/Illustrations/Minimal Dominating non-Independent Set Example.png",
     "Graph Theory/Domination Theory/Illustrations",

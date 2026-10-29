@@ -12,6 +12,7 @@ tags:
 2. Every [[Induced Subposet|induced subposet]] is a subposet
 
 **Statement.** Subposet is a [[Substructure|substructure]] in terms of the relation theory.
-
+**Statement.** Unlike in the case of an induced subposet, not every substructure of a poset is a subposet, because it may not be transitive and may not be reflexive.
+**Statement.** Being a subposet is exactly being a substructure relative to 
 
 TODO Add examples

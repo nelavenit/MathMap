@@ -23,7 +23,7 @@ tags:
 11. A class of all connected graphs is not monotone: the substructure may be disconnected. It's not monotone even relative to the class of all graphs
 12. A class of all forests is monotone relative to the class of all graphs (but not monotone in general)
 13. A class of all trees is monotone relative to the class of all connected graphs (but not monotone even relative to the class of all graphs)
-14. 
+14. A class of all orders of the finite [[Height|height]] is monotone relative to the class of all orders
 15. A class of all [[Linear Order (Chain)|linear orders]] is not monotone: we can make it into an [[Antichain|antichain]]
 
 **Statement.** If class $\mathcal{A}$ is monotone, then for any class $\mathcal{C}$ we have: $\mathcal{C}$ is monotone $\iff$ $C$ is monotone relative to $\mathcal{A}$.

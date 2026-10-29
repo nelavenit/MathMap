@@ -11,6 +11,7 @@ tags:
 
 **Remark.** In some sources $\mathbb{P}|_Q$ is denoted by $\mathbb{P}[Q]$.
 
-**Remark.** In some sources induced subposet is called simply "subposet" or an "ordered subset" or a "suborder", but this complicates the differentiation between [[Subposet|subposet]] and induced subposet, which is just a single example of ([[Substructure|substructure]], [[Induced Substructure|induced substructure]]) pair. So we choose the uniform naming across [[Graph|graphs]], [[Relation and Relational Structure|relational structures]] and posets.
+**Statement.** Induced subposet is an [[Induced Substructure|induced substructure]] in the terms of the relation theory.
+**Statement.** Every induced substructure of a poset is an induced subposet, because the class of all orders is [[Hereditary Class|hereditary]]. 
 
-**Statement.** Induced subposet is an induced substructure in the terms of the relation theory.
+**Remark.** In some sources induced subposet is called simply "subposet" or an "ordered subset" or a "suborder", but this complicates the differentiation between [[Subposet|subposet]] and induced subposet, which is just a single example of ([[Substructure|substructure]], induced substructure) pair. So we choose the uniform naming across [[Graph|graphs]], [[Relation and Relational Structure|relational structures]] and posets.

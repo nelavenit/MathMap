@@ -1,5 +1,0 @@
----
-tags:
-  - Definition
-  - Relation-Theory
----

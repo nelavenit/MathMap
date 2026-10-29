@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relation Theory/Heredity and Monotonicity/Hereditary Class.md",
+                "file": "Relation Theory/Heredity and Monotonicity/Hereditary Closure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hereditary Class"
+              "title": "Hereditary Closure"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relation Theory/Heredity and Monotonicity/Hereditary Class.md",
+                "file": "Relation Theory/Heredity and Monotonicity/Hereditary Closure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,11 +210,11 @@
   },
   "active": "db0e77b04d9b1068",
   "lastOpenFiles": [
+    "Relation Theory/Heredity and Monotonicity/Hereditary Class.md",
     "Order Theory/Basics/Subposet.md",
     "Relation Theory/Heredity and Monotonicity/Monotone Class.md",
     "Relation Theory/Axioms/Antisymmetry.md",
     "Order Theory/Certain Orders/Powerset and Boolean Lattices/Rank in Finite Powerset Lattice.md",
-    "Relation Theory/Heredity and Monotonicity/Hereditary Class.md",
     "Order Theory/Basics/Induced Subposet.md",
     "Order Theory/Basics/Poset.md",
     "Order Theory/Basics/Preorder.md",
@@ -226,7 +226,7 @@
     "Relation Theory/Axioms",
     "Graph Theory/Heredity and Monotonicity/Graph Heredity and Monotonicity.md",
     "_Exercises/Hereditary Class.md",
-    "Relation Theory/Heredity and Monotonicity/_Hereditary Closure.md",
+    "Relation Theory/Heredity and Monotonicity/Hereditary Closure.md",
     "Relation Theory/Heredity and Monotonicity/_Monotone Closure.md",
     "Graph Theory/Heredity and Monotonicity",
     "Relation Theory/Substructure.md",

@@ -2,7 +2,7 @@
 tags:
   - Statement
 ---
-**Statement.** Let $\mathbb{P} = (P, \leq)$ be *finite* [[Partial Order|order]], then any bijective [[Order Endomorphism|endomorphism]] of $\mathbb{P}$, call it $f$, is an [[Order Automorphism|automorphism]].
+**Statement.** Let $\mathbb{P} = (P, \leq)$ be *finite* [[Poset|order]], then any bijective [[Order Endomorphism|endomorphism]] of $\mathbb{P}$, call it $f$, is an [[Order Automorphism|automorphism]].
 $\blacktriangle$ By assumption $f$ is a permutation of $P$ so $(f(\cdot),f(\cdot))$ is a permutation of $P \times P$. The fact $f$ is an endomorphism is exactly:
 $$(f(\cdot),f(\cdot))[\leq]\ \ \subseteq\ \ \leq$$
 For $f$ to be an automorphism we lack only $f^{-1}$ to be an endomorphism, i.e. to:

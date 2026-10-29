@@ -10,7 +10,7 @@ $\blacktriangle$ (Th.24 from @vereshchaginNachalaTeoriiMnozhestv2012)
 (AC $\Rightarrow$ WO) Let $X$ be a set and $f$ be a choice function from an [[Equivalent form of AC through Subset Complement|equivalent form of the AC]], i.e. $f: \mathcal{P}(X) \setminus \{X\} \to X$ s.t. $A \subsetneq X \mapsto f(A) \in X \setminus A$. 
 Intuition:
 	we want to do kinda a transfinite induction: $x_0 = f(\emptyset)$, $x_1 = f(\{x_0\})$, $x_2 = f(\{x_0, x_1\})$. The problem is we need to already have some well-ordered set, which is a cycle. Let's address this problem, while sticking to the idea  that $x = f([0, x))$ ($[0,x)$ is defined [[Form of Arbitrary Downset of Woset|here]]), i.e. $f$ gives us the next element.
-Let $S \subseteq X$ and $(S, \leq_S)$ be a [[Partial Order|poset]]. We call it a <u>correct fragment</u> if
+Let $S \subseteq X$ and $(S, \leq_S)$ be a [[Poset|poset]]. We call it a <u>correct fragment</u> if
 1. ($S$, $\le_S$) is a woset
 2. $\forall s \in S$, $s = f([0,s))$
 Idea:

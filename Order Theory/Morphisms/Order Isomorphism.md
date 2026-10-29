@@ -2,7 +2,7 @@
 tags:
   - Definition
 ---
-**Definition.** Let $\mathbb{P} = (P, \leq_P)$ and $\mathbb{Q} = (Q, \leq_Q)$ be [[Partial Order|posets]], $\Phi: P \to Q$ is called an <u>order isomorphism of</u> $\mathbb{P}$ <u>and</u> $\mathbb{Q}$ if: 
+**Definition.** Let $\mathbb{P} = (P, \leq_P)$ and $\mathbb{Q} = (Q, \leq_Q)$ be [[Poset|posets]], $\Phi: P \to Q$ is called an <u>order isomorphism of</u> $\mathbb{P}$ <u>and</u> $\mathbb{Q}$ if: 
 1. $\Phi$ is order-preserving
 2. $\Phi$ has an inverse $\Phi^{-1}$
 3. $\Phi^{-1}$ is order preserving

@@ -2,7 +2,7 @@
 tags:
   - Statement
 ---
-**Statement.** Let $\mathbb{P}=(X,\leq)$ and $\mathbb{Q}=(X,\leq')$ be such [[Partial Order|orders]], that every $f:X\to X$ that [[Order Endomorphism|preserves]] $\leq$ also preserves $\leq'$ (in other words every [[Order Endomorphism|endomorphism]] of $\mathbb{P}$ is an endomorphism of $\mathbb{Q}$, i.e. $End \mathbb{P} \subseteq End \mathbb{Q}$), then there are only 3 cases: 
+**Statement.** Let $\mathbb{P}=(X,\leq)$ and $\mathbb{Q}=(X,\leq')$ be such [[Poset|orders]], that every $f:X\to X$ that [[Order Endomorphism|preserves]] $\leq$ also preserves $\leq'$ (in other words every [[Order Endomorphism|endomorphism]] of $\mathbb{P}$ is an endomorphism of $\mathbb{Q}$, i.e. $End \mathbb{P} \subseteq End \mathbb{Q}$), then there are only 3 cases: 
 1. $\leq = \leq'$
 2. $\leq'$ is the [[Dual Order|dual ordering]] $\leq^d$ of $\leq$
 3. no two points are $\leq'$-comparable, i.e. $\mathbb{Q}$ is an [[Antichain|antichain]]

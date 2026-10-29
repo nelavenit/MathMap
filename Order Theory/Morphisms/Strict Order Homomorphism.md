@@ -2,7 +2,7 @@
 tags:
   - Definition
 ---
-**Definition.** Let $\mathbb{P} = (P, \leq_P)$ and $\mathbb{Q} = (Q, \leq_Q)$ be [[Partial Order|posets]], $f: P \rightarrow Q$ is called a <u>strict order homomorphism</u> if $\forall p_1, p_2 \in P \text{ we have } p_1 <_P p_2$ implies $f(p_1) <_Q f(p_2)$.
+**Definition.** Let $\mathbb{P} = (P, \leq_P)$ and $\mathbb{Q} = (Q, \leq_Q)$ be [[Poset|posets]], $f: P \rightarrow Q$ is called a <u>strict order homomorphism</u> if $\forall p_1, p_2 \in P \text{ we have } p_1 <_P p_2$ implies $f(p_1) <_Q f(p_2)$.
 
 **Definition.** If $f$ is a self-map, then we call it <u>strict order endomorphism</u>.
 

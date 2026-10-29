@@ -2,7 +2,7 @@
 tags:
   - Statement
 ---
-**Statement.** Let $\mathbb{P} = (P, ≤)$ be a [[Partial Order|poset]], A ⊆ P, then
+**Statement.** Let $\mathbb{P} = (P, ≤)$ be a [[Poset|poset]], A ⊆ P, then
 1) $A$ is [[Upset and Downset|downset]] in $\mathbb{P}$ $\Longleftrightarrow A = ∪_{a∈A} \mathord{\downarrow}a$
 2) $A$ is [[Upset and Downset|upset]] in $\mathbb{P}$ $\Longleftrightarrow A = ∪_{a∈A} \mathord{\uparrow}a$
 $\blacktriangle$ $(\Rightarrow)$ It is a trivial exercise.

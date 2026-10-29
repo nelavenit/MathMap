@@ -3,7 +3,7 @@ tags:
   - Definition
   - Order-Theory
 ---
-**Definition.** A [[Partial Order|poset]] is called <u>N-free</u> if it doesn't contain [[N-Order|N-order]] as an [[Induced Subposet|induced subposet]]. (Note: exactly N-order, with no further comparabilities)
+**Definition.** A [[Poset|poset]] is called <u>N-free</u> if it doesn't contain [[N-Order|N-order]] as an [[Induced Subposet|induced subposet]]. (Note: exactly N-order, with no further comparabilities)
 
 **Examples.** 
 1. ![[Non N-Free Poset Example 01.png|200]] – not N-free (N-order induced subposet marked blue)

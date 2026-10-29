@@ -2,7 +2,7 @@
 tags:
   - Definition
 ---
-**Intuition.** Often it is easier to prove that an [[Partial Order|order]] [[Isomorphism Class|isomorphism class]] possesses a weaker property than [[Reconstructibility|reconstructibility]]. And it can be used to prove the reconstructibility.
+**Intuition.** Often it is easier to prove that an [[Poset|order]] [[Isomorphism Class|isomorphism class]] possesses a weaker property than [[Reconstructibility|reconstructibility]]. And it can be used to prove the reconstructibility.
 
 **Definition.** Class of orders $\mathcal{K}$ is called <u>recognizable</u> if for each set $\mathbb{P} ∈ \mathcal{K}$ and any ordered set $\mathbb{Q}$ we have $D_\mathbb{P} = D_\mathbb{Q}$ implies $\mathbb{Q} \in \mathcal{K}$.
 

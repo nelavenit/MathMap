@@ -53,12 +53,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Order Theory/Reconstruction Problem/Card.md",
+                "file": "Relation Theory/Heredity and Monotonicity/Hereditary Class.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Card"
+              "title": "Hereditary Class"
+            }
+          },
+          {
+            "id": "db0e77b04d9b1068",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relation Theory/Heredity and Monotonicity/Monotone Class.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Monotone Class"
             }
           },
           {
@@ -88,37 +102,9 @@
               "icon": "lucide-file",
               "title": "Antisymmetry"
             }
-          },
-          {
-            "id": "db0e77b04d9b1068",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relation Theory/Axioms/Irreflexivity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Irreflexivity"
-            }
-          },
-          {
-            "id": "17504d12ac54c18c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relation Theory/Heredity and Monotonicity/Hereditary Class.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hereditary Class"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -193,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relation Theory/Heredity and Monotonicity/Hereditary Class.md",
+                "file": "Relation Theory/Heredity and Monotonicity/Monotone Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,14 +278,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17504d12ac54c18c",
+  "active": "db0e77b04d9b1068",
   "lastOpenFiles": [
-    "Relation Theory/Axioms/Reflexivity.md",
-    "Relation Theory/Axioms/Irreflexivity.md",
-    "Relation Theory/Axioms/Antisymmetry.md",
     "Relation Theory/Heredity and Monotonicity/Hereditary Class.md",
-    "Relation Theory/Axioms",
     "Relation Theory/Heredity and Monotonicity/Monotone Class.md",
+    "Order Theory/Basics/Poset.md",
+    "Order Theory/Basics/Preorder.md",
+    "Order Theory/Reconstruction Problem/Card.md",
+    "Relation Theory/Axioms/Irreflexivity.md",
+    "Relation Theory/Axioms/Symmetric Antisymmetric Relations.md",
+    "Graph Theory/Basics/Graph.md",
+    "Relation Theory/Axioms/Reflexivity.md",
+    "Relation Theory/Axioms/Antisymmetry.md",
+    "Relation Theory/Axioms",
     "Graph Theory/Heredity and Monotonicity/Graph Heredity and Monotonicity.md",
     "_Exercises/Hereditary Class.md",
     "Relation Theory/Heredity and Monotonicity/_Hereditary Closure.md",
@@ -317,11 +308,6 @@
     "Order Theory/Certain Orders/N-Orders/Width Decrease Criterion Problem.md",
     "Order Theory/Certain Orders/N-Orders/Removal of Maximal Chain Decreases Width Criteria.md",
     "Order Theory/Certain Orders/N-Orders/Proper N-Freeness.md",
-    "Order Theory/Certain Orders/N-Orders/N'-Freeness.md",
-    "Order Theory/Certain Orders/N-Orders/N-Order.md",
-    "Order Theory/Certain Orders/N-Orders/N-Freeness.md",
-    "Order Theory/Certain Orders/Fence and Crown/Number of Antichains in Fence and Crown.md",
-    "Order Theory/Certain Orders/Fence and Crown/Fence is Reconstructible.md",
     "Order Theory/Reconstruction Problem/4-Element Orders without some N-Order Card.png",
     "Relation Theory/Heredity and Monotonicity",
     "Graph Theory/Chordal Graphs",

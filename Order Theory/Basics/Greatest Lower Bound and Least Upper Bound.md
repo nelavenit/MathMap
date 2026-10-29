@@ -3,7 +3,7 @@ tags:
   - Definition
   - Order-Theory
 ---
-**Definition.** Let $\mathbb{P} = (P, \leq)$ be a [[Partial Order|poset]] and $Q \subseteq P$. We say that $l\in P$ is the <u>greatest lower bound</u> of $Q$ (<u>GLB</u> for short) if $g$ is a [[Lower and Upper Bounds|lower bound]] of $Q$ and there is no other lower bound of $Q$ greater than $g,$ in other words $g$ is the [[Least and Greatest Elements|greatest element]] in the [[Induced Subposet|induced subposet]] of lower bounds of $Q$, i.e.
+**Definition.** Let $\mathbb{P} = (P, \leq)$ be a [[Poset|poset]] and $Q \subseteq P$. We say that $l\in P$ is the <u>greatest lower bound</u> of $Q$ (<u>GLB</u> for short) if $g$ is a [[Lower and Upper Bounds|lower bound]] of $Q$ and there is no other lower bound of $Q$ greater than $g,$ in other words $g$ is the [[Least and Greatest Elements|greatest element]] in the [[Induced Subposet|induced subposet]] of lower bounds of $Q$, i.e.
 $$\begin{cases}
 \forall q\in Q\ g \geq q \\
 \forall g' \leq g\ \exists q\in Q \text{ s.t. } q \geq g'

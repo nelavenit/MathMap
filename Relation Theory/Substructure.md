@@ -7,7 +7,7 @@ tags:
 
 **Examples.**
 1. [[Subgraph]] is a substructure of a [[Graph|graph]]
-2. [[Subposet]] is a substructure of a [[Partial Order|poset]]
+2. [[Subposet]] is a substructure of a [[Poset|poset]]
 3. Every [[Induced Substructure|induced substructure]] is a substructure
 
 **Remark.** In some sources $\mathbb{B}$ is called a <u>week substructure of </u>$\mathbb{A}$ to emphasize the difference from the [[Induced Substructure|induced substructure]], because induced substructure is often called simply "substructure". (TODO add references)

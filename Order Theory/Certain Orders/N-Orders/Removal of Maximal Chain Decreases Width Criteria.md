@@ -3,7 +3,7 @@ tags:
   - Statement
   - Order-Theory
 ---
-**Intuition.** In [[Dilworth's Chain Decomposition Theorem]] we were searching for a decomposition of a [[Partial Order|poset]] of the [[Width|width]] $k$ into $k$ [[Linear Order (Chain)|chains]]. The naive idea of taking arbitrary [[Maximal Chain|maximal chain]] to decrease the width didn't work, so we used a maximal strong k-dependent chain instead. But it's interesting to investigate when exactly just taking the maximal chain is enough.
+**Intuition.** In [[Dilworth's Chain Decomposition Theorem]] we were searching for a decomposition of a [[Poset|poset]] of the [[Width|width]] $k$ into $k$ [[Linear Order (Chain)|chains]]. The naive idea of taking arbitrary [[Maximal Chain|maximal chain]] to decrease the width didn't work, so we used a maximal strong k-dependent chain instead. But it's interesting to investigate when exactly just taking the maximal chain is enough.
 
 **Statement.** Let $\mathbb{P} = (P, \leq)$ be a poset of the finite width. Then removal of any maximal chain strictly decreases the width of $\mathbb{P}$ iff $\mathbb{P}$ is [[CAC]]. (Note: this is a CAC order criteria only in the case of a finite width)
 $\blacktriangle$ $\boldsymbol{(\Longleftarrow)}$ trivial
@@ -17,7 +17,7 @@ $\boldsymbol{(\Longrightarrow)}$ Assume there is a chain $C \subseteq P$ s.t. $w
 
 **Definition.** Let $\mathbb{P} = (P, \leq)$ be a poset. Similarly, it's called <u>inf-regular</u> if every chain $C$ in $\mathbb{P}$ has the [[Greatest Lower Bound and Least Upper Bound|greatest lower bound]] $\inf(C)$ and for any $p \in P$ we have $p > \inf(C)$ implies $\exists c \in C$ s.t. $c < p$.
 
-**Definition.** [[Partial Order|Poset]] $\mathbb{P} = (P, \leq)$ is called <u>regular</u>, if it's both sup- and inf-regular.
+**Definition.** [[Poset|Poset]] $\mathbb{P} = (P, \leq)$ is called <u>regular</u>, if it's both sup- and inf-regular.
 
 **Statement.** Let $\mathbb{P} = (P, \leq)$ be a regular order (note: this includes all the finite orders). Than the following conditions are equivalent:
 1. $\mathbb{P}$ is CAC

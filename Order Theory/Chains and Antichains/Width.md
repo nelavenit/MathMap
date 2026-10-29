@@ -2,7 +2,7 @@
 tags:
   - Definition
 ---
-**Intuition.** One of the natural ways to analyze finite (and some infinite) [[Partial Order|posets]] is to look at the height and width of their [[Hasse Diagram|Hasse diagram]]. Here we develop an idea of a width of an order, independent of the chosen Hasse diagram representation. Height idea is developed [[Height|here]].
+**Intuition.** One of the natural ways to analyze finite (and some infinite) [[Poset|posets]] is to look at the height and width of their [[Hasse Diagram|Hasse diagram]]. Here we develop an idea of a width of an order, independent of the chosen Hasse diagram representation. Height idea is developed [[Height|here]].
 In case of [[Rank Hasse Diagram]] the width is lower bounded by the maximum size of a [[Rank|rank]] level, which is also a lower bound for the size of the [[Maximal Antichain|maximal antichain]], because all the elements of the same rank are incomparable. It is one of the intuitions for the following definition.
 
 **Definition.** Let $\mathbb{P} = (P, \leq)$ be a poset. We call <u>width</u> of $\mathbb{P}$ the size of the largest [[Antichain|antichain]] in $\mathbb{P}$, if antichains of arbitrary size exist, we consider $\mathbb{P}$ to be of infinite width. We denote width by $w(\mathbb{P})$.

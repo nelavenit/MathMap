@@ -2,7 +2,7 @@
 tags:
   - Definition
 ---
-**Intuition.** To address this problems of [[Naive Visualization|naive order visualization]] let's use the fact an [[Partial Order|order]] gives us a hierarchy of elements.
+**Intuition.** To address this problems of [[Naive Visualization|naive order visualization]] let's use the fact an [[Poset|order]] gives us a hierarchy of elements.
 
 **Definition.** The <u>Hasse diagram</u> of a finite ordered set $(P, ≤)$ is the diagram of $(P, \prec)$ with all the edges going "down":
 1. ($\mathbb{R}^2$ case) If $p < q$ then object representing $q$ is having a larger y-coordinate then the one representing $p$

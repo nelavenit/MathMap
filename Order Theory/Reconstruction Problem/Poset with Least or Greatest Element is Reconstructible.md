@@ -2,7 +2,7 @@
 tags:
   - Statement
 ---
-**Statement.** The class of *finite* [[Partial Order|posets]] with at least 4 elements and the [[Least and Greatest Elements|least element]] ([[Least and Greatest Elements|greatest element]]) is [[Reconstructibility|reconstructible]].
+**Statement.** The class of *finite* [[Poset|posets]] with at least 4 elements and the [[Least and Greatest Elements|least element]] ([[Least and Greatest Elements|greatest element]]) is [[Reconstructibility|reconstructible]].
 $\color{red}\text{Proof idea}$ (Pr.1.37. from @schroderOrderedSetsIntroduction2016):
 1. Show this class is [[Recognizability|recognizable]]
 	1. If $\mathbb{P}$ has a least element, then there is at most one [[Card|card]] without one

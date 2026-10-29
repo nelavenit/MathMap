@@ -2,7 +2,7 @@
 tags:
   - Definition
 ---
-**Definition.** Let $\mathbb{P} = (P, \leq)$ be a [[Partial Order|poset]], $f: P \rightarrow P$ be a self-map. Then $p \in P$ is called a <u>fixed point of f</u> if $f(p) = p$.
+**Definition.** Let $\mathbb{P} = (P, \leq)$ be a [[Poset|poset]], $f: P \rightarrow P$ be a self-map. Then $p \in P$ is called a <u>fixed point of f</u> if $f(p) = p$.
 
 **Notation.** Let $\mathbb{P} = (P, \leq)$ be a poset and $f$ be a self-map on P. The set of all fixed points of $f$ is denoted by $\operatorname{Fix}_\mathbb{P}(f)$ or just $\operatorname{Fix}(f)$ if the order in consideration is obvious from the context.
 

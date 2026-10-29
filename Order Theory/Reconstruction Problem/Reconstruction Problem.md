@@ -2,7 +2,7 @@
 tags:
   - Open-Problem
 ---
-**Intuition.** Can we always unambiguously deconstruct the [[Partial Order|order]], knowing the [[Deck|deck]], i.e. do non-[[Order Isomorphism|isomorphic]] orders always have different decks?
+**Intuition.** Can we always unambiguously deconstruct the [[Poset|order]], knowing the [[Deck|deck]], i.e. do non-[[Order Isomorphism|isomorphic]] orders always have different decks?
 There are two non-isomorphic orders with the same decks:
 
 | ![[Reconstruction Problem 2-Element Counterexample.png]] | ![[Reconstruction Problem 3-Element Counterexample.png\|700]] |

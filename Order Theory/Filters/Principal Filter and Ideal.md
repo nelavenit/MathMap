@@ -2,7 +2,7 @@
 tags:
   - Definition
 ---
-**Definition.** Let $(P, \leq)$ be a [[Partial Order|poset]], $p \in P$.  
+**Definition.** Let $(P, \leq)$ be a [[Poset|poset]], $p \in P$.  
 $\mathord{\downarrow} p := \{ g \in P \mid g \leq p \}$ is called <u>principal ideal</u>,  
 $\mathord{\uparrow} p := \{ g \in P \mid g \geq p \}$ is called <u>principal filter</u>.
 

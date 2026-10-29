@@ -2,7 +2,7 @@
 tags:
   - Definition
 ---
-**Definition.** Let $\mathbb{P} = (P, \leq_P)$ and $\mathbb{Q} = (Q, \leq_Q)$ be [[Partial Order|posets]], $f: P \rightarrow Q$ is called an <u>order embedding</u> if $\forall p_1, p_2 \in P$ we have $$p_1 < p_2 \iff f(p_1) < f(p_2)$$ 
+**Definition.** Let $\mathbb{P} = (P, \leq_P)$ and $\mathbb{Q} = (Q, \leq_Q)$ be [[Poset|posets]], $f: P \rightarrow Q$ is called an <u>order embedding</u> if $\forall p_1, p_2 \in P$ we have $$p_1 < p_2 \iff f(p_1) < f(p_2)$$ 
 **Statement.** Let $\mathbb{P} = (P, \leq_P)$ and $\mathbb{Q} = (Q, \leq_Q)$ be posets, $f: P \rightarrow Q$. The following three conditions are equivalent:
 1. $f$ is an order embedding
 2. $\forall p_1, p_2 \in P$ we have $p_1 \leq p_2 \iff f(p_1) \leq f(p_2)$

@@ -4,7 +4,7 @@ tags:
   - Finite
   - Order-Theory
 ---
-**Definition.** [[Partial Order|Poset]] $\mathbb{F} = (F,\leq)$ is called an <u>(n+1)-fence</u> is $F=\{f_{0},\ldots,f_{n}\}$ and comparabilities satisfy one of the following cases:
+**Definition.** [[Poset|Poset]] $\mathbb{F} = (F,\leq)$ is called an <u>(n+1)-fence</u> is $F=\{f_{0},\ldots,f_{n}\}$ and comparabilities satisfy one of the following cases:
 1.1. $f_{0}>f_{1}, f_{1}<f_{2}, f_{2}>f_{3}, \ldots, f_{n-1}<f_{n}$ or 
 1.2. $f_{0}<f_{1}, f_{1}>f_{2}, f_{2}<f_{3}, \ldots, f_{n-1}>f_{n}$ if $n$ is even
 2.1. $f_{0}<f_{1}, f_{1}>f_{2}, f_{2}<f_{3}, \ldots, f_{n-1}<f_{n}$ or

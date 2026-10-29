@@ -2,7 +2,7 @@
 tags:
   - Definition
 ---
-**Definition.** Let $\mathbb{P} = (P, ≤_P)$, $\mathbb{Q}=(Q, ≤_Q)$ be [[Partial Order|orders]], then $f: P→Q$ is called <u>order-preserving function from</u> $\mathbb{P}$ <u>to</u> $\mathbb{Q}$ iff $∀p₁,p₂∈ P$ we have $p₁≤_P p₂$ implies $f(p₁)≤_Q f(p₂)$. 
+**Definition.** Let $\mathbb{P} = (P, ≤_P)$, $\mathbb{Q}=(Q, ≤_Q)$ be [[Poset|orders]], then $f: P→Q$ is called <u>order-preserving function from</u> $\mathbb{P}$ <u>to</u> $\mathbb{Q}$ iff $∀p₁,p₂∈ P$ we have $p₁≤_P p₂$ implies $f(p₁)≤_Q f(p₂)$. 
 We would more often use the name <u>order homomorphism  from</u> $\mathbb{P}$ <u>to</u> $\mathbb{Q}$. 
 Homomorphism is the general mathematic term for a structure-preserving function, so if multiple structure types are used in the context we can't omit "order" for brevity. We'll omit it just when the only structures in the context are orders and [[Preorder|preorders]] to avoid ambiguity.
 

@@ -2,7 +2,7 @@
 tags:
   - Example
 ---
-**Definition.** Let $\mathbb{P} = (P, \leq_P)$ and $\mathbb{Q} = (Q, \leq_Q)$ be [[Partial Order|posets]], $p_0 \in P$, if there are $q_1, q_2 \in Q$ s.t. $q_1 <_Q q_2$ (i.e. $\mathbb{Q}$ is not an [[Antichain|antichain]]), then $f: P \rightarrow Q$ s.t.
+**Definition.** Let $\mathbb{P} = (P, \leq_P)$ and $\mathbb{Q} = (Q, \leq_Q)$ be [[Poset|posets]], $p_0 \in P$, if there are $q_1, q_2 \in Q$ s.t. $q_1 <_Q q_2$ (i.e. $\mathbb{Q}$ is not an [[Antichain|antichain]]), then $f: P \rightarrow Q$ s.t.
 $$f(p) := 
 \begin{cases}
 q_2, \text{ if } p \geq_P p_0 \\

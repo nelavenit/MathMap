@@ -2,7 +2,7 @@
 tags:
   - Statement
 ---
-**Statement.** The class of finite [[Partial Order|orders]] with at least 4 elements and with an [[Isolated Point|isolated point]] is [[Reconstructibility|reconstructible]].
+**Statement.** The class of finite [[Poset|orders]] with at least 4 elements and with an [[Isolated Point|isolated point]] is [[Reconstructibility|reconstructible]].
 $\color{red}\text{Proof idea}$ (my own proof for the exercise 1-28 from @schroderOrderedSetsIntroduction2016):
 1. Prove the class is [[Recognizability|recognizable]]:
 	 Let $\mathbb{P} = (P, \leq_P)$ be a poset. Count $S(\mathbb{P}) = \sum_{c \text{ – cards of }\mathbb{P}} \#(\text{isolated points in }c)$. There are 4 cases:

@@ -2,7 +2,7 @@
 tags:
   - Definition
 ---
-**Definition.** Let $\mathbb{P} = (P, \leq)$ be an [[Partial Order|order]], $f: P → P$ - [[Order-preserving map (Order Homomorphism)|order homomorphism]]. Then $f$ is called an <u>order endomorphism</u> (alternatively <u>order-preserving self-map</u>).
+**Definition.** Let $\mathbb{P} = (P, \leq)$ be an [[Poset|order]], $f: P → P$ - [[Order-preserving map (Order Homomorphism)|order homomorphism]]. Then $f$ is called an <u>order endomorphism</u> (alternatively <u>order-preserving self-map</u>).
 
 **Examples.** 
 1. ![[Order Endomorphism Example 01.png]]

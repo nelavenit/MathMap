@@ -2,7 +2,7 @@
 tags:
   - Intuition
 ---
-Any finite [[Partial Order|poset]] $\mathbb{P} = (P, \leq)$ can be visualized as a directed graph: $V := P,\ E\ := \leq$.
+Any finite [[Poset|poset]] $\mathbb{P} = (P, \leq)$ can be visualized as a directed graph: $V := P,\ E\ := \leq$.
 
 But the picture will be overloaded will edges, the way to avoid it is not to add transitive edges: draw ![[Small Directed Graph without Transitive Edge.png|200]]instead of ![[Small Directed Graph with Transitive Edge.png|170]].
 Formally our diagram is a directed graph of [[Lower and Upper Covers, Adjacence|cover]] relation.

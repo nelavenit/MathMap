@@ -2,7 +2,7 @@
 tags:
   - Definition
 ---
-**Intuition.** One of the natural ways to analyze finite (and some infinite) [[Partial Order|posets]] is to look at the height and width of their [[Hasse Diagram|Hasse diagram]]. Here we develop an idea of a height of an order, independent of the chosen Hasse diagram representation. Width idea is developed [[Width|here]].
+**Intuition.** One of the natural ways to analyze finite (and some infinite) [[Poset|posets]] is to look at the height and width of their [[Hasse Diagram|Hasse diagram]]. Here we develop an idea of a height of an order, independent of the chosen Hasse diagram representation. Width idea is developed [[Width|here]].
 In case of [[Rank Hasse Diagram]] the height is exactly the number or [[Rank|rank]] levels, i.e. maximal rank of an element + 1, and even in a general diagram case the height is lower-bounded by the maximal rank + 1, i.e. maximal rank reflects the smallest height of a diagram.
 
 **Definition.** Let $\mathbb{P}$ be a poset. The <u>height</u> of $\mathbb{P}$ is the number of elements in the longest chain in $\mathbb{P}$. (in other words it's the ([[Chain Length|length]] of the longest chain in $\mathbb{P}$) + 1). We will denote it as $h(\mathbb{P})$. If for every natural number $n$, $\mathbb{P}$ has a chain of size $n$, then we will say $\mathbb{P}$ is of an infinite height.

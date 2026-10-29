@@ -3,7 +3,7 @@ tags:
   - Example
   - Order-Theory
 ---
-**Definition.** The [[Partial Order|order]] with the following [[Hasse Diagram|Hasse diagram]] with no further comparabilities is called an <u>N-order</u>:
+**Definition.** The [[Poset|order]] with the following [[Hasse Diagram|Hasse diagram]] with no further comparabilities is called an <u>N-order</u>:
 ![[N-Order.png]]
 
 **Notation.** If we consider an [[Induced Subposet|induced subposet]] with an N-order structure we would refer to it as to <u>N-suborder</u>.

@@ -2,7 +2,7 @@
 tags:
   - Statement
 ---
-**Statement.** Let ($P, \leq$) be a [[Partial Order|poset]], then $\forall p \in P$
+**Statement.** Let ($P, \leq$) be a [[Poset|poset]], then $\forall p \in P$
 1. $\mathord{\uparrow}{p}$ is a [[Filter and Ideal|filter]]
 2. $\mathord{\mathord{\downarrow}} p$ is an [[Filter and Ideal|ideal]]
 

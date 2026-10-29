@@ -6,7 +6,7 @@ tags:
 $\blacktriangle$ For each element we decide whether $\left[ \begin{array}{ll} a_i \mapsto a_{i+1} \\ a_i \mapsto a_i \end{array} \right .$ , where $a_{i+1}$ is an [[Lower and Upper Covers, Adjacence|upper cover]] of $a_i$, and $a_{|C|} \mapsto a_{|C|}$. This way we would have $2^{|C|-1}$ endomorphism, but one of them is an automorphism, so lets replace it with $f := const = a_{|C|}$.
 Note: doesn't work when $|c| = 1$ because $f$ was already considered, so in case $|C| = 2$ we fix $f' := const = a_0$. $\boxtimes$
 
-**Statement.** Let $\mathbb{P}=(P,\leq)$ be a *finite* [[Partial Order|poset]] with $|P|=n>1$ and $h(\mathbb{P})=h$. Then $\mathbb{P}$ has at least $2^{\frac{h}{h+1}n}$ endomorphisms that are not automorphisms.
+**Statement.** Let $\mathbb{P}=(P,\leq)$ be a *finite* [[Poset|poset]] with $|P|=n>1$ and $h(\mathbb{P})=h$. Then $\mathbb{P}$ has at least $2^{\frac{h}{h+1}n}$ endomorphisms that are not automorphisms.
 $\blacktriangle$ 
 1. If $\mathbb{P}$ is a chain then we have a previous statement. Let’s assume $\mathbb{P}$ is not a chain.
 2. Let $c_0 \ldots c_h$ be a chain and let $r_0 \ldots r_h$ be the numbers of elements of every [[Rank|rank]]. Consider $j$ be a number of the smallest $r$, i.e. $∀i\ rⱼ ≤ rᵢ$. Let also $R_0 \ldots R_k$ be the sets of elements of every rank. Then for any $U_0 \subseteq R_0 , \ldots , U_k \subseteq R_k$ we would have an endomorphism which:

@@ -2,7 +2,7 @@
 tags:
   - Definition
 ---
-**Definition.** Let $\mathbb{P} = (P, \leq)$ be an [[Partial Order|order]], $f: P → P$ - [[Order Isomorphism|order isomorphism]]. Then $f$ is called an <u>order automorphism</u>. 
+**Definition.** Let $\mathbb{P} = (P, \leq)$ be an [[Poset|order]], $f: P → P$ - [[Order Isomorphism|order isomorphism]]. Then $f$ is called an <u>order automorphism</u>. 
 In other words automorphism is an isomorphic self-map.
 In other words automorphism is such [[Order-preserving map (Order Homomorphism)|homomorphism]] that it is both [[Order Endomorphism|endomorphism]] and isomorphism.
 

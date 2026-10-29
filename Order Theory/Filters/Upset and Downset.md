@@ -2,7 +2,7 @@
 tags:
   - Definition
 ---
-**Definition.** Let $\mathbb{P} = (P, ≤)$ be a [[Partial Order|poset]], $U ⊆ P$ is called an <u>upper set</u> or an <u>upset of </u>$\mathbb{P}$ iff $∀ p,q ∈ P$ we have that $p ∈ U$ and $p ≤ q$ implies $q ∈ U$.
+**Definition.** Let $\mathbb{P} = (P, ≤)$ be a [[Poset|poset]], $U ⊆ P$ is called an <u>upper set</u> or an <u>upset of </u>$\mathbb{P}$ iff $∀ p,q ∈ P$ we have that $p ∈ U$ and $p ≤ q$ implies $q ∈ U$.
 **Definition.** Analogously, $D$ is called a <u>lower set</u> or a <u>downset of </u>$\mathbb{P}$ iff $\forall p,q ∈ P$ we have that $p ∈ D$ and $q ≤ p$ implies $q ∈ D$.
 
 **Notation.** If the poset whose downsets/upsets we are considering is obvious from the context we may omit the phrase "of $\mathbb{P}$".

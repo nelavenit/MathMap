@@ -8,4 +8,4 @@ $\blacktriangle$ By induction principle for well-founded sets it suffices to sho
 **Intuition.** Alternatively we could prove by saying $x > f(x) > f(f(x)) > \ldots$ is an
 infinite descending sequence.
 
-**Statement.** The same wouldn't work in the case of arbitrary [[Partial Order|poset]]. For instance, consider $\mathbb{Z}$ with a natural ordering and [[Order Automorphism|automorphism]] $f:n \mapsto n - 1$, $f$ is a strict homomorphism, but $\forall z \in Z\ z > f(z).$
+**Statement.** The same wouldn't work in the case of arbitrary [[Poset|poset]]. For instance, consider $\mathbb{Z}$ with a natural ordering and [[Order Automorphism|automorphism]] $f:n \mapsto n - 1$, $f$ is a strict homomorphism, but $\forall z \in Z\ z > f(z).$

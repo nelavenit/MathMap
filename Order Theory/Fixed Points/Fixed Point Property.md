@@ -2,7 +2,7 @@
 tags:
   - Definition
 ---
-**Definition.** A [[Partial Order|poset]] $\mathbb{P}$ is said to have a <u>fixed point property</u> if every [[Order Endomorphism|order endomorphism]] of $\mathbb{P}$ has a [[Fixed Point and Fixed-Point-Free|fixed point]]. In other words if there is no [[Fixed Point and Fixed-Point-Free|fixed-point-free]] endomorphism.
+**Definition.** A [[Poset|poset]] $\mathbb{P}$ is said to have a <u>fixed point property</u> if every [[Order Endomorphism|order endomorphism]] of $\mathbb{P}$ has a [[Fixed Point and Fixed-Point-Free|fixed point]]. In other words if there is no [[Fixed Point and Fixed-Point-Free|fixed-point-free]] endomorphism.
 
 **Notation.** For brevity we would often write <u>FPP</u> instead of a "fixed point property".
 

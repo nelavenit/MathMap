@@ -2,7 +2,7 @@
 tags:
   - Definition
 ---
-**Definition.** We say a [[Partial Order|poset]] $\mathbb{P}$ is <u>reconstructible</u> from its [[Deck|deck]] $D_\mathbb{P}$ if all posets $\mathbb{Q}$ with $D_\mathbb{P} = D_\mathbb{Q}$ are [[Order Isomorphism|isomorphic]] to $\mathbb{P}$.
+**Definition.** We say a [[Poset|poset]] $\mathbb{P}$ is <u>reconstructible</u> from its [[Deck|deck]] $D_\mathbb{P}$ if all posets $\mathbb{Q}$ with $D_\mathbb{P} = D_\mathbb{Q}$ are [[Order Isomorphism|isomorphic]] to $\mathbb{P}$.
 **Definition.** A class $\mathcal{K}$ of posets is <u>reconstructible</u> if each of its members $P∈\mathcal{K}$ is reconstructible.
 
 **Examples.**

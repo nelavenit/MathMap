@@ -3,7 +3,7 @@ tags:
   - Statement
   - Finite
 ---
-**Notation.** Let $\mathbb{P} = (P, \leq)$ be a *finite* [[Partial Order|poset]] and $X \subseteq P$, then $\# A_\mathbb{P}(X)$ is the number of [[Antichain|antichains]] in $(X, \leq|_{X \times X})$. If $\mathbb{P}$ is the only order in consideration we would write, for simplicity, just $\#A(X)$.
+**Notation.** Let $\mathbb{P} = (P, \leq)$ be a *finite* [[Poset|poset]] and $X \subseteq P$, then $\# A_\mathbb{P}(X)$ is the number of [[Antichain|antichains]] in $(X, \leq|_{X \times X})$. If $\mathbb{P}$ is the only order in consideration we would write, for simplicity, just $\#A(X)$.
 
 **Statement.** Let $\mathbb{P} = (P, \leq)$ be a *finite* order. Then for any $p \in P$ we have $\#A(P) = \#A(P \setminus \{p\}) - \#A(P \setminus \mathord{\updownarrow} p)$.
 $\blacktriangle$ Let's call $n := \#A(P)$, $n_1 := \#A(P \setminus \{p\})$ and $n_2 := \#A(P \setminus \mathord{\updownarrow} p)$.

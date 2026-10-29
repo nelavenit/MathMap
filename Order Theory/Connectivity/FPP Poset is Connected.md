@@ -2,7 +2,7 @@
 tags:
   - Statement
 ---
-**Statement.** Let $\mathbb{P} = (P, \leq)$ be a [[Partial Order|poset]] with an [[Fixed Point Property|FPP]], then $\mathbb{P}$ is [[Connectivity|connected]]. 
+**Statement.** Let $\mathbb{P} = (P, \leq)$ be a [[Poset|poset]] with an [[Fixed Point Property|FPP]], then $\mathbb{P}$ is [[Connectivity|connected]]. 
 $\blacktriangle$ Assume the opposite: $\mathbb{P}$ is disconnected, so there is a pair $p,q \in P$, s.t. there is no [[Fence|fence]] in $\mathbb{P}$ with them as [[Fence|endpoints]]. 
 Intuition is "let's map $p$'s [[Connected component|connected component]] to the $q$, and map the rest to the $p$".
 Define 

@@ -4,7 +4,7 @@ tags:
   - Finite
   - Order-Theory
 ---
-**Notation.** Let $\mathbb{P} = (P, \leq)$ be a *finite* [[Partial Order|poset]] and $X \subseteq P$, then $\#A(\mathbb{P})$ is number of [[Antichain|antichains]] in $\mathbb{P}$ and the $\# A_\mathbb{P}(X)$ is the number of antichains in $(X, \leq|_{X \times X})$. If $\mathbb{P}$ is the only order in consideration we would write, for simplicity, just $\#A(X)$.
+**Notation.** Let $\mathbb{P} = (P, \leq)$ be a *finite* [[Poset|poset]] and $X \subseteq P$, then $\#A(\mathbb{P})$ is number of [[Antichain|antichains]] in $\mathbb{P}$ and the $\# A_\mathbb{P}(X)$ is the number of antichains in $(X, \leq|_{X \times X})$. If $\mathbb{P}$ is the only order in consideration we would write, for simplicity, just $\#A(X)$.
 
 **Intuition.** Note that the number of antichains is independent of the choice of an n-element [[Fence|fence]] (there are 4 of them), we may "inverse" the order horizontally (rename the vertices) and vertically (consider [[Dual Order|dual order]]) and get a "canonical" fence without changing number of antichains.
 

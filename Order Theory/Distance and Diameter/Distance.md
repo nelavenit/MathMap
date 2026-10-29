@@ -2,7 +2,7 @@
 tags:
   - Definition
 ---
-**Definition.**  Let $\mathbb{P} = (P, \leq)$ be a [[Partial Order|poset]], $p,q \in P$. The <u>distance</u> between $p$ and $q$, denoted by $\operatorname{dist}(p,q),$ is the [[Fence|length]] of the shortest [[Fence|fence]] in $\mathbb{P}$ with $p$ and $q$ as [[Fence|endpoints]]. If $p$ and $q$ are in different [[Connected component|connected components]] of $\mathbb{P}$, we will say the distance is infinite.
+**Definition.**  Let $\mathbb{P} = (P, \leq)$ be a [[Poset|poset]], $p,q \in P$. The <u>distance</u> between $p$ and $q$, denoted by $\operatorname{dist}(p,q),$ is the [[Fence|length]] of the shortest [[Fence|fence]] in $\mathbb{P}$ with $p$ and $q$ as [[Fence|endpoints]]. If $p$ and $q$ are in different [[Connected component|connected components]] of $\mathbb{P}$, we will say the distance is infinite.
 
 **Notation.** When there are multiple orders in consideration we may write $\operatorname{dist}_{\mathbb{P}}(p,q)$ for an unambiguity.
 

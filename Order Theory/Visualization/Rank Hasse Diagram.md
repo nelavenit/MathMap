@@ -2,7 +2,7 @@
 tags:
   - Definition
 ---
-**Intuition.** [[Partial Order|Order]] element's [[Rank|rank]] is the "hierarchy level" of an element. So it's natural to try to draw elements with the same rank on the same height in the [[Hasse Diagram|Hasse diagram]].
+**Intuition.** [[Poset|Order]] element's [[Rank|rank]] is the "hierarchy level" of an element. So it's natural to try to draw elements with the same rank on the same height in the [[Hasse Diagram|Hasse diagram]].
 
 **Definition.** Hasse diagram in which elements of the same rank are drawn with she same $y$-coordinate is called <u>rank Hasse diagram</u>.
 

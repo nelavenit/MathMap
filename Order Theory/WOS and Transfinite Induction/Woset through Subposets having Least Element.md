@@ -2,7 +2,7 @@
 tags:
   - Statement
 ---
-**Statement (Alternative definition of a woset).** Let $\mathbb{W} = (W, \leq)$ be a [[Partial Order|poset]]. Then $\mathbb{W}$ is a [[Well-Ordered Set|woset]] iff for every $X \subseteq W$ an [[Induced Subposet|induced subposet]] $\mathbb{W}|_X$ has the [[Least and Greatest Elements|least element]].
+**Statement (Alternative definition of a woset).** Let $\mathbb{W} = (W, \leq)$ be a [[Poset|poset]]. Then $\mathbb{W}$ is a [[Well-Ordered Set|woset]] iff for every $X \subseteq W$ an [[Induced Subposet|induced subposet]] $\mathbb{W}|_X$ has the [[Least and Greatest Elements|least element]].
 $\blacktriangle$ $(\implies)$ By [[Well-Founded Order|well-foundedness]] of $\mathbb{W}$ any $X \subseteq W$ has a [[Minimal and Maximal Elements|minimal element]], by [[Linear Order (Chain)|linearity]] of $\mathbb{W}$ this element [[Minimal and Least, Maximal and Greatest in Linear Orders|is]] also the least.
 $(\impliedby)$ We need to prove that $\mathbb{W}$ is both well-founded and linear:
 1. Every least element is minimal so the order is well-founded

@@ -3,7 +3,7 @@ tags:
   - Definition
   - Order-Theory
 ---
-**Definition.** Let $A$ be a set, then the [[Partial Order|poset]] of the set of all subsets of $A$ ordered by inclusion $(2^A, \subseteq)$ is called a <u>powerset lattice</u>.
+**Definition.** Let $A$ be a set, then the [[Poset|poset]] of the set of all subsets of $A$ ordered by inclusion $(2^A, \subseteq)$ is called a <u>powerset lattice</u>.
 **Notation.** $2^A$ is also often denoted by $\mathcal{P}(A)$, where $\mathcal{P}$ stands for the first letter of "Potenzmenge", which is "Power set" in German.
 **Notation.** For finite |A| = n, powerset lattice is denoted $B_n$.
  

@@ -2,7 +2,7 @@
 tags:
   - Definition
 ---
-**Intuition.** We want the [[Partial Order|poset]] to be connected when it's [[Hasse Diagram|Hasse diagram]] looks connected.
+**Intuition.** We want the [[Poset|poset]] to be connected when it's [[Hasse Diagram|Hasse diagram]] looks connected.
 
 **Definition.** Let $\mathbb{P} = (P, \leq)$ be a poset. $\mathbb{P}$ is called <u>connected</u>, if for all $p,q \in P$ there is a [[Fence|fence]] in $\mathbb{P}$ with $p,q$ being it's [[Fence|endpoints]].
 **Definition.** The order that is not connected is called <u>disconnected</u>.

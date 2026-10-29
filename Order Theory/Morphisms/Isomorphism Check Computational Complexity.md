@@ -2,7 +2,7 @@
 tags:
   - Open-Problem
 ---
-**Open problem.** Computational complexity of checking whether two finite [[Partial Order|orders]] are [[Order Isomorphism|isomorphic]] or not. 
+**Open problem.** Computational complexity of checking whether two finite [[Poset|orders]] are [[Order Isomorphism|isomorphic]] or not. 
 
 **Intuition.** It must be easier than the same check for the graph, because every finite order is a graph.
 

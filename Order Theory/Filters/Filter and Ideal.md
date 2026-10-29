@@ -2,7 +2,7 @@
 tags:
   - Definition
 ---
-**Intuition.** [[Principal Filter and Ideal|Principal filters]] (ideals) are a natural and important subjects of research. Let's generalize the concept to get a wider class of [[Partial Order|order]] subsets, but that every its member will possess some essential principal filter (ideal) properties.
+**Intuition.** [[Principal Filter and Ideal|Principal filters]] (ideals) are a natural and important subjects of research. Let's generalize the concept to get a wider class of [[Poset|order]] subsets, but that every its member will possess some essential principal filter (ideal) properties.
 
 **Definition.** Let $(P,\leq)$ be a poset, $F\subseteq P$ is called a <u>filter</u>, if:
 1) $F$ is an [[Upset and Downset|upset]]

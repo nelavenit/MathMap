@@ -3,7 +3,7 @@ tags:
   - Definition
   - Order-Theory
 ---
-**Definition.** Let $\mathbb{P} = (P, \leq)$ be a [[Partial Order|poset]]. [[Induced Subposet|Induced subposet]] of four elements $a,b,c,d \in P$  is called a <u>proper N-suborder</u> if 
+**Definition.** Let $\mathbb{P} = (P, \leq)$ be a [[Poset|poset]]. [[Induced Subposet|Induced subposet]] of four elements $a,b,c,d \in P$  is called a <u>proper N-suborder</u> if 
 $$\begin{cases}
 a < b > c < d \\
 a \nsim c \\

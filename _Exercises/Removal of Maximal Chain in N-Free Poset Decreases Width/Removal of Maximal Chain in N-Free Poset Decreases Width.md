@@ -4,7 +4,7 @@ tags:
 ---
 The following is simpler version of [[Removal of Maximal Chain Decreases Width Criteria]], [[N-Freeness|N-free]] instead of proper N-free, hence one-way implication instead of a criteria, and finite order instead of a regular one (which along with simplification does the opposite by also not giving a hint on how to approach the problem).
 
-**Exercise.** (2-17a from @schroderOrderedSetsIntroduction2016) Proof that if the finite [[Partial Order|order]] is N-free, then removal of any [[Maximal Chain|maximal chain]] will decrease the [[Width|width]]. (Solved it myself)
+**Exercise.** (2-17a from @schroderOrderedSetsIntroduction2016) Proof that if the finite [[Poset|order]] is N-free, then removal of any [[Maximal Chain|maximal chain]] will decrease the [[Width|width]]. (Solved it myself)
 **Statement.** Let $\mathbb{P} = (P, \leq)$ be finite N-free poset, then removal of any maximal chain strictly decreases the width of $\mathbb{P}$.
 $\blacktriangle$ (my own proof) Show by contraposition.
 Assume $C$ is a maximal chain in $\mathbb{P} = (P, \leq)$, P is finite and $w(P) = w(P \setminus C) := w$. We want to find [[N-Order|N-order]] in $\mathbb{P}$.

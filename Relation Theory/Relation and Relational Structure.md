@@ -20,7 +20,7 @@ The set $A$ is called its <u>underlying set</u> or <u>domain</u>.
 
 **Examples.**
 1. [[Preorder]] is a relational structure, with a [[Preorder|preordering]] being a binary relation
-2. [[Partial Order|Poset]] is a relational structure, with an [[Partial Order|ordering]] being a binary relation
+2. [[Poset|Poset]] is a relational structure, with an [[Poset|ordering]] being a binary relation
 3. [[Graph]] is a relational structure, with an [[Graph|adjacency]] being a binary relation on the [[Graph|vertex set]]
 4. [[Directed Graph]] is a relational structure, with a [[Directed Graph|directed adjacency]] being a binary relation
 5. For any family of sets $\mathcal{A}$ the pair $(\mathcal{A}, {\subseteq}\big|_{\mathcal A\times\mathcal A})$ is a relational structure, with ${\subseteq}\big|_{\mathcal A\times\mathcal A}$ being a binary relation on $\mathcal{A}$

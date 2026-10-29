@@ -29,9 +29,12 @@ tags:
 17. A class of all [[Linear Order (Chain)|linear orders]] is hereditary
 18. A class of all orders with the [[Least and Greatest Elements|greatest element]] is not hereditary: we may remove the greatest element
 
-**Statement.** If class $\mathcal{A}$ is hereditary, then any class $\mathcal{C}$ we have: $\mathcal{C}$ is hereditary $\iff$ $C$ is hereditary relative to $\mathcal{A}$.
+**Statement.** If class $\mathcal{A}$ is hereditary, then for any class $\mathcal{C}$ we have: $\mathcal{C}$ is hereditary $\iff$ $C$ is hereditary relative to $\mathcal{A}$.
 $\color{red}\text{Proof}$ is a simple exercise.
 **Corollary.** It's sensible only to choose non-hereditary as an ambient class.
 
+
 TODO Reference "graph connectivity"
 TODO Reference "forest"
+TODO Reference "tree"
+TODO Intuition?

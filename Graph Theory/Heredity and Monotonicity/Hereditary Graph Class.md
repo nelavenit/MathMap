@@ -1,5 +1,0 @@
----
-tags:
-  - Graph-Theory
-  - Definition
----

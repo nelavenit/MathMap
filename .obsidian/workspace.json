@@ -33,8 +33,7 @@
               "title": "Hereditary Closure"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relation Theory/Heredity and Monotonicity/Hereditary Closure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,8 +206,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db0e77b04d9b1068",
+  "active": "963d1df56e216076",
   "lastOpenFiles": [
+    "Relation Theory/Heredity and Monotonicity/Hereditary Closure.md",
     "Relation Theory/Heredity and Monotonicity/Hereditary Class.md",
     "Order Theory/Basics/Subposet.md",
     "Relation Theory/Heredity and Monotonicity/Monotone Class.md",
@@ -226,7 +225,6 @@
     "Relation Theory/Axioms",
     "Graph Theory/Heredity and Monotonicity/Graph Heredity and Monotonicity.md",
     "_Exercises/Hereditary Class.md",
-    "Relation Theory/Heredity and Monotonicity/Hereditary Closure.md",
     "Relation Theory/Heredity and Monotonicity/_Monotone Closure.md",
     "Graph Theory/Heredity and Monotonicity",
     "Relation Theory/Substructure.md",

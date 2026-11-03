@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "ba2902c01786c2ae",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.0"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.0"
+            }
+          },
+          {
             "id": "db0e77b04d9b1068",
             "type": "leaf",
             "state": {
@@ -33,7 +45,8 @@
               "title": "Hereditary Closure"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,7 +219,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "963d1df56e216076",
+  "active": "ba2902c01786c2ae",
   "lastOpenFiles": [
     "Relation Theory/Heredity and Monotonicity/Hereditary Closure.md",
     "Relation Theory/Heredity and Monotonicity/Hereditary Class.md",

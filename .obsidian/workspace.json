@@ -23,12 +23,14 @@
             "id": "ba2902c01786c2ae",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.15.0"
+                "file": "Order Theory/Basics/Degree.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.15.0"
+              "icon": "lucide-file",
+              "title": "Degree"
             }
           },
           {
@@ -121,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Order Theory/Basics/Degree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

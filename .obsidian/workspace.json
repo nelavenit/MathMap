@@ -23,14 +23,38 @@
             "id": "ba2902c01786c2ae",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Graph Theory/Basics/Illustrations/3-Cycle Example.png"
+              },
+              "icon": "lucide-image",
+              "title": "3-Cycle Example"
+            }
+          },
+          {
+            "id": "d7776cadeba52c3c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Graph Theory/Basics/Illustrations/3-Cycle Example.png"
+              },
+              "icon": "lucide-image",
+              "title": "3-Cycle Example"
+            }
+          },
+          {
+            "id": "1b147dfe06c5d3dc",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Order Theory/Basics/Degree.md",
+                "file": "Graph Theory/Basics/Cycle and Induced Cycle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Degree"
+              "title": "Cycle and Induced Cycle"
             }
           },
           {
@@ -46,9 +70,37 @@
               "icon": "lucide-file",
               "title": "Hereditary Closure"
             }
+          },
+          {
+            "id": "8d751353e480caab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relation Theory/Gaifman Graph/Gaifman Graph.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gaifman Graph"
+            }
+          },
+          {
+            "id": "a153c40faa5b0212",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graph Theory/Basics/Graph.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Graph"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -123,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Order Theory/Basics/Degree.md",
+                "file": "Graph Theory/Basics/Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,8 +274,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba2902c01786c2ae",
+  "active": "cdaf15c423be4a85",
   "lastOpenFiles": [
+    "Order Theory/Chains and Antichains/Fibers, Cutsets and CAC/Fiber.md",
+    "Order Theory/Chains and Antichains/Fibers, Cutsets and CAC",
+    "Digraph Theory/Basics",
+    "Digraph Theory",
+    "Graph Theory/Basics/Cycle and Induced Cycle.md",
+    "Graph Theory/Basics/Illustrations/Cycle and Chord Example.png",
+    "Graph Theory/Basics/Path and Induced Path.md",
+    "Graph Theory/Connectivity and Isolation/Graph Connectivity.md",
+    "Relation Theory/Gaifman Graph/Relational Structure Connectivity.md",
+    "Relation Theory/Gaifman Graph/Gaifman Graph.md",
+    "Graph Theory/Connectivity and Isolation",
+    "Relation Theory/Gaifman Graph/Gaifman vs General Connectivity.md",
+    "Relation Theory/Gaifman Graph",
+    "Graph Theory/Chordal Graphs/Chordal graph.md",
+    "Graph Theory/Trees/Tree.md",
+    "Graph Theory/Trees",
+    "Graph Theory/Chordal Graphs/Chordal Graph.md",
+    "Graph Theory/Basics/Illustrations/Induced Cycle Example 02.png",
+    "Graph Theory/Basics/Illustrations/5-Cycle Example.png",
+    "Graph Theory/Basics/Illustrations/3-Cycle Example.png",
+    "Order Theory/Basics/Illustrations/Cycle.md",
+    "Graph Theory/Basics/Illustrations/Induced Cycle Example 01.png",
+    "Order Theory/Basics/Isolated Point.md",
+    "Order Theory/Basics/Degree.md",
     "Relation Theory/Heredity and Monotonicity/Hereditary Closure.md",
     "Relation Theory/Heredity and Monotonicity/Hereditary Class.md",
     "Order Theory/Basics/Subposet.md",
@@ -237,38 +313,14 @@
     "Relation Theory/Axioms/Irreflexivity.md",
     "Relation Theory/Axioms/Symmetric Antisymmetric Relations.md",
     "Graph Theory/Basics/Graph.md",
-    "Relation Theory/Axioms/Reflexivity.md",
     "Relation Theory/Axioms",
-    "Graph Theory/Heredity and Monotonicity/Graph Heredity and Monotonicity.md",
-    "_Exercises/Hereditary Class.md",
-    "Relation Theory/Heredity and Monotonicity/_Monotone Closure.md",
     "Graph Theory/Heredity and Monotonicity",
-    "Relation Theory/Substructure.md",
-    "Relation Theory/Class of Relational Structures.md",
-    "Graph Theory/Chordal Graphs/Chordal Graph.md",
-    "Order Theory/Certain Orders/Powerset and Boolean Lattices/Powerset Lattice.md",
-    "Order Theory/Certain Orders/Powerset and Boolean Lattices/Dedekind's Problem.md",
-    "Order Theory/Certain Orders/Powerset and Boolean Lattices/Dedekind Numbers.md",
-    "Order Theory/Certain Orders/Powerset and Boolean Lattices/Dedekind Number Trivial Lower Bound.md",
-    "Order Theory/Certain Orders/Finite Partial Functions.md",
-    "Order Theory/Certain Orders/N-Orders/Width Decrease Criterion Problem.md",
     "Order Theory/Reconstruction Problem/4-Element Orders without some N-Order Card.png",
     "Relation Theory/Heredity and Monotonicity",
     "Graph Theory/Chordal Graphs",
     "Graph Theory/Domination Theory/Illustrations/Minimal Dominating non-Independent Set Example.png",
-    "Graph Theory/Domination Theory/Illustrations",
-    "Graph Theory/Domination Theory",
     "Order Theory/Distance and Diameter/Infinite Width, Diameter is 2.png",
-    "Graph Theory/Simpliciality",
     "Graph Theory/Basics/Illustrations/Subgraph Example 01.png",
-    "Graph Theory/Basics/Illustrations/Subgraph Example 05.png",
-    "Graph Theory/Basics/Illustrations/Subgraph Example 03.png",
-    "Graph Theory/Basics/Illustrations/Subgraph Example 04.png",
-    "Graph Theory/Basics/Illustrations/Subgraph Example 02.png",
-    "Pasted image 20261001172804.png",
-    "Order Theory/Certain Orders/Powerset and Boolean Lattices/Illustrations/Dedekind Numbers Progress.png",
-    "Order Theory/Certain Orders/Powerset and Boolean Lattices/Illustrations",
-    "Order Theory/Certain Orders/Fence and Crown/Illustrations",
-    "Order Theory/Chains and Antichains/Illustrations"
+    "Graph Theory/Basics/Illustrations/Subgraph Example 05.png"
   ]
 }

@@ -91,12 +91,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph Theory/Basics/Graph.md",
+                "file": "Order Theory/Chains and Antichains/Fibers, Cutsets and CAC/Splitting Element.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Graph"
+              "title": "Splitting Element"
             }
           }
         ],
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph Theory/Basics/Graph.md",
+                "file": "Order Theory/Chains and Antichains/Fibers, Cutsets and CAC/Splitting Element.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,9 +274,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cdaf15c423be4a85",
+  "active": "a153c40faa5b0212",
   "lastOpenFiles": [
+    "Pasted image 20261106210117.png",
+    "Pasted image 20261106210048.png",
+    "Pasted image 20261106205932.png",
     "Order Theory/Chains and Antichains/Fibers, Cutsets and CAC/Fiber.md",
+    "Order Theory/Chains and Antichains/Fibers, Cutsets and CAC/Splitting Element.md",
+    "Graph Theory/Basics/Graph.md",
     "Order Theory/Chains and Antichains/Fibers, Cutsets and CAC",
     "Digraph Theory/Basics",
     "Digraph Theory",
@@ -310,17 +315,12 @@
     "Order Theory/Basics/Poset.md",
     "Order Theory/Basics/Preorder.md",
     "Order Theory/Reconstruction Problem/Card.md",
-    "Relation Theory/Axioms/Irreflexivity.md",
-    "Relation Theory/Axioms/Symmetric Antisymmetric Relations.md",
-    "Graph Theory/Basics/Graph.md",
     "Relation Theory/Axioms",
     "Graph Theory/Heredity and Monotonicity",
     "Order Theory/Reconstruction Problem/4-Element Orders without some N-Order Card.png",
     "Relation Theory/Heredity and Monotonicity",
     "Graph Theory/Chordal Graphs",
     "Graph Theory/Domination Theory/Illustrations/Minimal Dominating non-Independent Set Example.png",
-    "Order Theory/Distance and Diameter/Infinite Width, Diameter is 2.png",
-    "Graph Theory/Basics/Illustrations/Subgraph Example 01.png",
-    "Graph Theory/Basics/Illustrations/Subgraph Example 05.png"
+    "Order Theory/Distance and Diameter/Infinite Width, Diameter is 2.png"
   ]
 }

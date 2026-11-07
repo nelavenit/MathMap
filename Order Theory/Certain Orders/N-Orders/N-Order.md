@@ -8,4 +8,4 @@ tags:
 
 **Notation.** If we consider an [[Induced Subposet|induced subposet]] with an N-order structure we would refer to it as to <u>N-suborder</u>.
 
-**Remark.** In literature N-order is often called just $\mathcal{N}$, which may cause ambiguity or clutteredness of notation.
+**Remark.** In literature N-order is sometimes called simply $\mathbf{N}$ ( @grilletMaximalChainsAntichains1969, @schroderOrderedSetsIntroduction2016 ), which may cause ambiguity or clutteredness of notation.

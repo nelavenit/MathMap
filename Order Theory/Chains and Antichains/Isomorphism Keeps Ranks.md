@@ -1,6 +1,7 @@
 ---
 tags:
   - Statement
+  - Order-Theory
 ---
 **Statement.** Let $\mathbb{P}=(P,\leq_{P})$ and $\mathbb{Q}=(Q,\leq_{Q})$ be *finite* [[Poset|posets]] and $\Phi : P \to Q$ be an [[Order Isomorphism|isomorphism]] of $\mathbb{P}$ and $\mathbb{Q}$. Then for all $p \in P$ we have $\text{rank}_{\mathbb{P}}(p) = \text{rank}_{\mathbb{Q}}(\Phi(p))$, i.e. element rank is an invariant.
 $\blacktriangle$ 

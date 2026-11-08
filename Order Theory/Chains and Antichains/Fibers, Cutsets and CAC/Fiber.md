@@ -1,3 +1,8 @@
+---
+tags:
+  - Definition
+  - Order-Theory
+---
 **Definition.** Let $\mathbb{P} = (P, \leq)$ be a [[Poset|poset]]. A set $F \subseteq P$ is called a <u>fiber of </u>$\mathbb{P}$ if it intersects every [[Antichain|maximal antichain of ]]$\mathbb{P}$.
 
 **Definition.** Let $\mathbb{P} = (P, \leq)$ be a [[Poset|poset]]. A set $F \subseteq P$ is called a <u>weak fiber of </u>$\mathbb{P}$ if it intersects every [[Antichain|maximal antichain of ]]$\mathbb{P}$ of the size at least $2$.

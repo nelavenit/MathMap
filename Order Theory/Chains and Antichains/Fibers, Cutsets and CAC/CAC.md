@@ -1,6 +1,7 @@
 ---
 tags:
   - Definition
+  - Order-Theory
 ---
 **Definition.** A [[Poset|poset]] $\mathbb{P} = (P, \leq)$ is said to be <u>chain-antichain complete</u> (<u>CAC</u> for short) if every [[Maximal Chain|maximal chain]] in $\mathbb{P}$ intersects each [[Maximal Antichain|maximal antichain]] in $\mathbb{P}$.
 

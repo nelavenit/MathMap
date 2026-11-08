@@ -2,6 +2,7 @@
 tags:
   - Statement
   - AC-used
+  - Order-Theory
 ---
 **Intuition.** Let's try to decompose a [[Poset|poset]] into a number of [[Linear Order (Chain)|chains]]. We can't have less than [[Width|width]] of $\mathbb{P}$ chains because then two elements of an [[Antichain|antichain]] would lie in one chain. But can we always manage with exactly $w(\mathbb{P})$ chains?
 The idea can be to remove the [[Maximal Chain|maximal chain]] to decrease the width by 1, but it works only sometimes. Consider the same poset, but with different maximal chains for removal:

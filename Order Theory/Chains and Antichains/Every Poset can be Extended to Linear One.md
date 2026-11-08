@@ -2,6 +2,7 @@
 tags:
   - Statement
   - AC-used
+  - Order-Theory
 ---
 **Statement.** Let $(P, ≤)$ be a [[Poset|poset]], then $\leq$ can be extended to be a [[Linear Order (Chain)|linear ordering]], i.e. $∃ ≤_L s.t. ≤ ⊆ ≤_L$ and $(P, ≤_L)$ is a linear order.
 $\blacktriangle$

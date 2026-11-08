@@ -77,12 +77,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relation Theory/Gaifman Graph/Gaifman Graph.md",
+                "file": "Order Theory/Certain Orders/N-Orders/Proper N-Freeness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gaifman Graph"
+              "title": "Proper N-Freeness"
             }
           },
           {
@@ -91,16 +91,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Order Theory/Certain Orders/N-Orders/N-Order.md",
+                "file": "Order Theory/Chains and Antichains/Maximal Antichain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "N-Order"
+              "title": "Maximal Antichain"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Order Theory/Certain Orders/N-Orders/N-Order.md",
+                "file": "Order Theory/Certain Orders/N-Orders/Proper N-Freeness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,18 +275,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a153c40faa5b0212",
+  "active": "8d751353e480caab",
   "lastOpenFiles": [
-    "Order Theory/Certain Orders/N-Orders/N-Freeness.md",
+    "Order Theory/Certain Orders/N-Orders/N'-Freeness.md",
+    "Relation Theory/Gaifman Graph/Gaifman Graph.md",
+    "Order Theory/Chains and Antichains/Maximal Antichain.md",
+    "Order Theory/Chains and Antichains/Maximal Chain.md",
+    "Order Theory/Chains and Antichains/Linear Order (Chain).md",
+    "Order Theory/Chains and Antichains/Isomorphism Keeps Ranks.md",
+    "Order Theory/Chains and Antichains/Height.md",
+    "Order Theory/Chains and Antichains/Existence of Maximal Chain (Antichain).md",
+    "Order Theory/Chains and Antichains/Every Poset can be Extended to Linear One.md",
+    "Order Theory/Chains and Antichains/Dilworth's Chain Decomposition Theorem.md",
+    "Order Theory/Chains and Antichains/Chain Length.md",
+    "Order Theory/Chains and Antichains/Antichain.md",
+    "Order Theory/Chains and Antichains/Fibers, Cutsets and CAC/Fiber.md",
+    "Order Theory/Chains and Antichains/Fibers, Cutsets and CAC/CAC.md",
+    "Order Theory/Chains and Antichains/Fibers, Cutsets and CAC/Illustrations/Splitting Elements Example 01.png",
+    "Order Theory/Chains and Antichains/Fibers, Cutsets and CAC/Illustrations/Splitting Elements Example 03.png",
+    "Order Theory/Chains and Antichains/Fibers, Cutsets and CAC/Illustrations",
+    "Order Theory/Chains and Antichains/Fibers, Cutsets and CAC/Illustrations/Splitting Elements Example 02.png",
     "Order Theory/Certain Orders/N-Orders/N-Order.md",
+    "Order Theory/Certain Orders/N-Orders/N-Freeness.md",
     "Order Theory/Certain Orders/N-Orders/Removal of Maximal Chain Decreases Width Criteria.md",
     "Order Theory/Certain Orders/N-Orders/Proper N-Freeness.md",
-    "Order Theory/Chains and Antichains/Fibers, Cutsets and CAC/CAC.md",
     "Order Theory/Chains and Antichains/Fibers, Cutsets and CAC/Splitting Element.md",
-    "Pasted image 20261106210117.png",
-    "Pasted image 20261106210048.png",
-    "Pasted image 20261106205932.png",
-    "Order Theory/Chains and Antichains/Fibers, Cutsets and CAC/Fiber.md",
     "Graph Theory/Basics/Graph.md",
     "Order Theory/Chains and Antichains/Fibers, Cutsets and CAC",
     "Digraph Theory/Basics",
@@ -296,32 +309,19 @@
     "Graph Theory/Basics/Path and Induced Path.md",
     "Graph Theory/Connectivity and Isolation/Graph Connectivity.md",
     "Relation Theory/Gaifman Graph/Relational Structure Connectivity.md",
-    "Relation Theory/Gaifman Graph/Gaifman Graph.md",
     "Graph Theory/Connectivity and Isolation",
     "Relation Theory/Gaifman Graph/Gaifman vs General Connectivity.md",
     "Relation Theory/Gaifman Graph",
     "Graph Theory/Chordal Graphs/Chordal graph.md",
-    "Graph Theory/Trees/Tree.md",
     "Graph Theory/Trees",
-    "Graph Theory/Chordal Graphs/Chordal Graph.md",
     "Graph Theory/Basics/Illustrations/Induced Cycle Example 02.png",
     "Graph Theory/Basics/Illustrations/5-Cycle Example.png",
     "Graph Theory/Basics/Illustrations/3-Cycle Example.png",
-    "Order Theory/Basics/Illustrations/Cycle.md",
     "Graph Theory/Basics/Illustrations/Induced Cycle Example 01.png",
-    "Order Theory/Basics/Isolated Point.md",
-    "Order Theory/Basics/Degree.md",
-    "Relation Theory/Heredity and Monotonicity/Hereditary Closure.md",
-    "Relation Theory/Heredity and Monotonicity/Hereditary Class.md",
-    "Order Theory/Basics/Subposet.md",
-    "Relation Theory/Heredity and Monotonicity/Monotone Class.md",
-    "Relation Theory/Axioms/Antisymmetry.md",
-    "Order Theory/Certain Orders/Powerset and Boolean Lattices/Rank in Finite Powerset Lattice.md",
     "Relation Theory/Axioms",
     "Graph Theory/Heredity and Monotonicity",
     "Order Theory/Reconstruction Problem/4-Element Orders without some N-Order Card.png",
     "Relation Theory/Heredity and Monotonicity",
-    "Graph Theory/Chordal Graphs",
     "Graph Theory/Domination Theory/Illustrations/Minimal Dominating non-Independent Set Example.png"
   ]
 }

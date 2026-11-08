@@ -2,6 +2,7 @@
 tags:
   - Statement
   - AC-used
+  - Order-Theory
 ---
 **Statement.** Let $\mathbb{P}=(P,\leq)$ be a [[Poset|poset]], $C\subseteq P$ – [[Linear Order (Chain)|chain]] ([[Antichain|antichain]]), then there exists $M\subseteq P$ s.t. $C\subseteq M$ and $M$ is a [[Maximal Chain|maximal chain]] ([[Maximal Antichain|maximal antichain]]).
 $\blacktriangle$ Very similar to the proof of (Zorn's $\Rightarrow$ AC) (see [[Zorn's Lemma|here]]).

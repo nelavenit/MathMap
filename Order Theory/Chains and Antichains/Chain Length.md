@@ -1,6 +1,7 @@
 ---
 tags:
   - Definition
+  - Order-Theory
 ---
 **Definition.** Let $\mathbb{C} = (C, \leq)$ be a finite [[Linear Order (Chain)|chain]]. We call a <u>length</u> of $\mathbb{C}$ the value $|C|-1$, denoted as $l(\mathbb{C}):=|C|-1$, i.e. number of [[Lower and Upper Covers, Adjacence|cover]] pairs in $\mathbb{C}$.
 

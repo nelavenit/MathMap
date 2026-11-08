@@ -1,6 +1,7 @@
 ---
 tags:
   - Definition
+  - Order-Theory
 ---
 **Intuition.** One of the natural ways to analyze finite (and some infinite) [[Poset|posets]] is to look at the height and width of their [[Hasse Diagram|Hasse diagram]]. Here we develop an idea of a height of an order, independent of the chosen Hasse diagram representation. Width idea is developed [[Width|here]].
 In case of [[Rank Hasse Diagram]] the height is exactly the number or [[Rank|rank]] levels, i.e. maximal rank of an element + 1, and even in a general diagram case the height is lower-bounded by the maximal rank + 1, i.e. maximal rank reflects the smallest height of a diagram.

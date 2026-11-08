@@ -1,6 +1,7 @@
 ---
 tags:
   - Definition
+  - Order-Theory
 ---
 **Definition.** A [[Poset|poset]] $\mathbb{P} = (P, ≤)$ is called a <u>linear order</u> or a <u>chain</u> if all the elements of $\mathbb{P}$ are $\leq$-comparable, i.e. $\forall p_1, p_2 \in P$ $\left[ \begin{array}{ll} \ p_1 \leq p_2 \\\ p_2 \leq p_1 \end{array} \right .$. Relation $\leq$ is called a <u>linear ordering</u>.
 

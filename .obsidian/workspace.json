@@ -86,6 +86,18 @@
             }
           },
           {
+            "id": "204421ad54512244",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.1"
+            }
+          },
+          {
             "id": "a153c40faa5b0212",
             "type": "leaf",
             "state": {
@@ -100,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -275,7 +287,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d751353e480caab",
+  "active": "204421ad54512244",
   "lastOpenFiles": [
     "Order Theory/Certain Orders/N-Orders/N'-Freeness.md",
     "Relation Theory/Gaifman Graph/Gaifman Graph.md",

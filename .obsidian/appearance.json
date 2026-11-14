@@ -2,5 +2,6 @@
   "enabledCssSnippets": [
     "center"
   ],
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "showRibbon": true
 }
